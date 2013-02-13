@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/opt
+END
+pkgIndex.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/opt/pkgIndex.tcl
+END
+optparse.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/opt/optparse.tcl
+END

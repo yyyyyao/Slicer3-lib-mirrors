@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library
+END
+parray.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/parray.tcl
+END
+safe.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/safe.tcl
+END
+history.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/history.tcl
+END
+init.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/init.tcl
+END
+auto.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/auto.tcl
+END
+ldAout.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/ldAout.tcl
+END
+tclIndex
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/tclIndex
+END
+word.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/word.tcl
+END
+package.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/package.tcl
+END

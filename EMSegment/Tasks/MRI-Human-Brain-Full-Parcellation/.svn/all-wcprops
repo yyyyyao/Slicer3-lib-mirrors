@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/Slicer3/!svn/ver/16609/trunk/Modules/EMSegment/Tasks/MRI-Human-Brain-Full-Parcellation
+END
+LABELS.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/Slicer3/!svn/ver/16270/trunk/Modules/EMSegment/Tasks/MRI-Human-Brain-Full-Parcellation/LABELS.txt
+END
+atlas_air.nrrd
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/Slicer3/!svn/ver/16609/trunk/Modules/EMSegment/Tasks/MRI-Human-Brain-Full-Parcellation/atlas_air.nrrd
+END
+atlas_csf.nrrd
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/Slicer3/!svn/ver/16609/trunk/Modules/EMSegment/Tasks/MRI-Human-Brain-Full-Parcellation/atlas_csf.nrrd
+END
+atlas_skullneck.nrrd
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/Slicer3/!svn/ver/16609/trunk/Modules/EMSegment/Tasks/MRI-Human-Brain-Full-Parcellation/atlas_skullneck.nrrd
+END
+atlas_greymatter_sub.nrrd
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Slicer3/!svn/ver/15995/trunk/Modules/EMSegment/Tasks/MRI-Human-Brain-Full-Parcellation/atlas_greymatter_sub.nrrd
+END
+atlas_whitematter.nrrd
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/Slicer3/!svn/ver/16609/trunk/Modules/EMSegment/Tasks/MRI-Human-Brain-Full-Parcellation/atlas_whitematter.nrrd
+END
+atlas_greymatter.nrrd
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/Slicer3/!svn/ver/16609/trunk/Modules/EMSegment/Tasks/MRI-Human-Brain-Full-Parcellation/atlas_greymatter.nrrd
+END
+atlas_csf_sub.nrrd
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/Slicer3/!svn/ver/15995/trunk/Modules/EMSegment/Tasks/MRI-Human-Brain-Full-Parcellation/atlas_csf_sub.nrrd
+END
+atlas_t1.nrrd
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/Slicer3/!svn/ver/15749/trunk/Modules/EMSegment/Tasks/MRI-Human-Brain-Full-Parcellation/atlas_t1.nrrd
+END
+README.log
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/Slicer3/!svn/ver/15749/trunk/Modules/EMSegment/Tasks/MRI-Human-Brain-Full-Parcellation/README.log
+END
+atlas_whitematter_sub.nrrd
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/Slicer3/!svn/ver/15995/trunk/Modules/EMSegment/Tasks/MRI-Human-Brain-Full-Parcellation/atlas_whitematter_sub.nrrd
+END

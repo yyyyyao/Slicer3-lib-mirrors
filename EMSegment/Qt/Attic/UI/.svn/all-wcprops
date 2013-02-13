@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Slicer3/!svn/ver/16714/trunk/Modules/EMSegment/Qt/Attic/UI
+END
+qSlicerEMSegmentDefineAtlasStep.ui
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/Slicer3/!svn/ver/16714/trunk/Modules/EMSegment/Qt/Attic/UI/qSlicerEMSegmentDefineAtlasStep.ui
+END
+qSlicerEMSegmentAnatomicalTreeWidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/Slicer3/!svn/ver/16714/trunk/Modules/EMSegment/Qt/Attic/UI/qSlicerEMSegmentAnatomicalTreeWidget.ui
+END
+qSlicerEMSegmentRunSegmentationStep.ui
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/Slicer3/!svn/ver/16714/trunk/Modules/EMSegment/Qt/Attic/UI/qSlicerEMSegmentRunSegmentationStep.ui
+END
+qSlicerEMSegmentDefineAnatomicalTreeStep.ui
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/Slicer3/!svn/ver/16714/trunk/Modules/EMSegment/Qt/Attic/UI/qSlicerEMSegmentDefineAnatomicalTreeStep.ui
+END
+qSlicerEMSegmentEditRegistrationParametersStep.ui
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/Slicer3/!svn/ver/16714/trunk/Modules/EMSegment/Qt/Attic/UI/qSlicerEMSegmentEditRegistrationParametersStep.ui
+END
+qSlicerEMSegmentDefineInputChannelsStep.ui
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/Slicer3/!svn/ver/16714/trunk/Modules/EMSegment/Qt/Attic/UI/qSlicerEMSegmentDefineInputChannelsStep.ui
+END
+qSlicerEMSegmentGraphWidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/Slicer3/!svn/ver/16714/trunk/Modules/EMSegment/Qt/Attic/UI/qSlicerEMSegmentGraphWidget.ui
+END
+qSlicerEMSegmentModule.ui
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/Slicer3/!svn/ver/16714/trunk/Modules/EMSegment/Qt/Attic/UI/qSlicerEMSegmentModule.ui
+END
+qSlicerEMSegmentSpecifyIntensityDistributionStep.ui
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Slicer3/!svn/ver/16714/trunk/Modules/EMSegment/Qt/Attic/UI/qSlicerEMSegmentSpecifyIntensityDistributionStep.ui
+END
+qSlicerEMSegmentDefineTaskStep.ui
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/Slicer3/!svn/ver/16714/trunk/Modules/EMSegment/Qt/Attic/UI/qSlicerEMSegmentDefineTaskStep.ui
+END
+qSlicerEMSegmentDefinePreprocessingStep.ui
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/Slicer3/!svn/ver/16714/trunk/Modules/EMSegment/Qt/Attic/UI/qSlicerEMSegmentDefinePreprocessingStep.ui
+END
+qSlicerEMSegmentEditNodeBasedParametersStep.ui
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/Slicer3/!svn/ver/16714/trunk/Modules/EMSegment/Qt/Attic/UI/qSlicerEMSegmentEditNodeBasedParametersStep.ui
+END

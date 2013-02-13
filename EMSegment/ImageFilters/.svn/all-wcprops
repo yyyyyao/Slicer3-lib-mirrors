@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Slicer3/!svn/ver/16998/trunk/Modules/EMSegment/ImageFilters
+END
+vtkImageSumOverVoxels.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/Slicer3/!svn/ver/16915/trunk/Modules/EMSegment/ImageFilters/vtkImageSumOverVoxels.h
+END
+vtkImageLabelPropagation.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/Slicer3/!svn/ver/16424/trunk/Modules/EMSegment/ImageFilters/vtkImageLabelPropagation.h
+END
+vtkSimonParameterReaderWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/Slicer3/!svn/ver/16424/trunk/Modules/EMSegment/ImageFilters/vtkSimonParameterReaderWriter.h
+END
+vtkImageMeanIntensityNormalization.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/Slicer3/!svn/ver/16424/trunk/Modules/EMSegment/ImageFilters/vtkImageMeanIntensityNormalization.cxx
+END
+vtkImageIslandFilter.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/Slicer3/!svn/ver/16985/trunk/Modules/EMSegment/ImageFilters/vtkImageIslandFilter.cxx
+END
+vtkImageSumOverVoxels.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/Slicer3/!svn/ver/16915/trunk/Modules/EMSegment/ImageFilters/vtkImageSumOverVoxels.cxx
+END
+vtkImageLabelPropagation.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/Slicer3/!svn/ver/16998/trunk/Modules/EMSegment/ImageFilters/vtkImageLabelPropagation.cxx
+END
+vtkImageMeanIntensityNormalization.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/Slicer3/!svn/ver/16424/trunk/Modules/EMSegment/ImageFilters/vtkImageMeanIntensityNormalization.h
+END
+vtkSimonParameterReaderWriter.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/Slicer3/!svn/ver/16984/trunk/Modules/EMSegment/ImageFilters/vtkSimonParameterReaderWriter.cxx
+END
+vtkImageIslandFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/Slicer3/!svn/ver/16907/trunk/Modules/EMSegment/ImageFilters/vtkImageIslandFilter.h
+END

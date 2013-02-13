@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/Slicer3/!svn/ver/15562/trunk/Modules/EMSegment/Tasks/Non-Human-Primate/Unbiased
+END
+template.nrrd
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/Slicer3/!svn/ver/15562/trunk/Modules/EMSegment/Tasks/Non-Human-Primate/Unbiased/template.nrrd
+END
+rcau_prob.nrrd
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/Slicer3/!svn/ver/15562/trunk/Modules/EMSegment/Tasks/Non-Human-Primate/Unbiased/rcau_prob.nrrd
+END
+rput_prob.nrrd
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/Slicer3/!svn/ver/15562/trunk/Modules/EMSegment/Tasks/Non-Human-Primate/Unbiased/rput_prob.nrrd
+END
+csf_prob.nrrd
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/Slicer3/!svn/ver/15562/trunk/Modules/EMSegment/Tasks/Non-Human-Primate/Unbiased/csf_prob.nrrd
+END
+lhip_prob.nrrd
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/Slicer3/!svn/ver/15562/trunk/Modules/EMSegment/Tasks/Non-Human-Primate/Unbiased/lhip_prob.nrrd
+END
+rest_prob.nrrd
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/Slicer3/!svn/ver/15562/trunk/Modules/EMSegment/Tasks/Non-Human-Primate/Unbiased/rest_prob.nrrd
+END
+icc_prob.nrrd
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/Slicer3/!svn/ver/15562/trunk/Modules/EMSegment/Tasks/Non-Human-Primate/Unbiased/icc_prob.nrrd
+END
+rhip_prob.nrrd
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/Slicer3/!svn/ver/15562/trunk/Modules/EMSegment/Tasks/Non-Human-Primate/Unbiased/rhip_prob.nrrd
+END
+gm_prob.nrrd
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/Slicer3/!svn/ver/15562/trunk/Modules/EMSegment/Tasks/Non-Human-Primate/Unbiased/gm_prob.nrrd
+END
+wm_prob.nrrd
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/Slicer3/!svn/ver/15562/trunk/Modules/EMSegment/Tasks/Non-Human-Primate/Unbiased/wm_prob.nrrd
+END
+bs_prob.nrrd
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/Slicer3/!svn/ver/15562/trunk/Modules/EMSegment/Tasks/Non-Human-Primate/Unbiased/bs_prob.nrrd
+END
+cb_prob.nrrd
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/Slicer3/!svn/ver/15562/trunk/Modules/EMSegment/Tasks/Non-Human-Primate/Unbiased/cb_prob.nrrd
+END
+lcau_prob.nrrd
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/Slicer3/!svn/ver/15562/trunk/Modules/EMSegment/Tasks/Non-Human-Primate/Unbiased/lcau_prob.nrrd
+END
+lput_prob.nrrd
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/Slicer3/!svn/ver/15562/trunk/Modules/EMSegment/Tasks/Non-Human-Primate/Unbiased/lput_prob.nrrd
+END

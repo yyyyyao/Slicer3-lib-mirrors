@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/Testing
+END
+ftpupload.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/Testing/ftpupload.c
+END
+win32sockets.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/Testing/win32sockets.c
+END
+getinmemory.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/Testing/getinmemory.c
+END
+http-post.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/Testing/http-post.c
+END
+postit2.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/Testing/postit2.c
+END
+curltest.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/Testing/curltest.c
+END
+httpput.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/Testing/httpput.c
+END
+simplessl.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/Testing/simplessl.c
+END
+curlgtk.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/Testing/curlgtk.c
+END
+testconfig.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/Testing/testconfig.h.in
+END
+multithread.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/Testing/multithread.c
+END
+sepheaders.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/Testing/sepheaders.c
+END
+ftpgetresp.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/Testing/ftpgetresp.c
+END
+simple.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/Testing/simple.c
+END
+ftpget.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/Testing/ftpget.c
+END
+persistant.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/Testing/persistant.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/Testing/CMakeLists.txt
+END

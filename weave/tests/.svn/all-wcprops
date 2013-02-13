@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/tests
+END
+test_slice_handler.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/tests/test_slice_handler.py
+END
+test_c_spec.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/tests/test_c_spec.py
+END
+test_inline_tools.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/tests/test_inline_tools.py
+END
+test_blitz_tools.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/tests/test_blitz_tools.py
+END
+test_size_check.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/tests/test_size_check.py
+END
+test_numpy_scalar_spec.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/tests/test_numpy_scalar_spec.py
+END
+test_ast_tools.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/tests/test_ast_tools.py
+END
+test_standard_array_spec.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/tests/test_standard_array_spec.py
+END
+test_catalog.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/tests/test_catalog.py
+END
+test_scxx_object.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/tests/test_scxx_object.py
+END
+test_scxx_sequence.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/tests/test_scxx_sequence.py
+END
+test_build_tools.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/tests/test_build_tools.py
+END
+test_ext_tools.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/tests/test_ext_tools.py
+END
+scxx_timings.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/tests/scxx_timings.py
+END
+weave_test_utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/tests/weave_test_utils.py
+END
+test_scxx_dict.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/tests/test_scxx_dict.py
+END

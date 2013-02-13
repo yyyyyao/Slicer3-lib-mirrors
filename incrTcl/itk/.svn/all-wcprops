@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/itk
+END
+pkgIndex.tcl.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/itk/pkgIndex.tcl.in
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/itk/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/itk/Makefile.in
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/itk/configure.in
+END
+itkConfig.sh.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/itk/itkConfig.sh.in
+END
+license.terms
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/itk/license.terms
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/itk/aclocal.m4
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/itk/.cvsignore
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/Slicer3/!svn/ver/16998/trunk/Modules/EMSegment/Tcl
+END
+EMSegmentAutoSample.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Slicer3/!svn/ver/16977/trunk/Modules/EMSegment/Tcl/EMSegmentAutoSample.tcl
+END
+Graph.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Slicer3/!svn/ver/16705/trunk/Modules/EMSegment/Tcl/Graph.tcl
+END
+Gui.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Slicer3/!svn/ver/15041/trunk/Modules/EMSegment/Tcl/Gui.tcl
+END
+LevelSetSegmenterFct.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/Slicer3/!svn/ver/16567/trunk/Modules/EMSegment/Tcl/LevelSetSegmenterFct.tcl
+END
+setget.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Slicer3/!svn/ver/15041/trunk/Modules/EMSegment/Tcl/setget.tcl
+END
+GenerateGraph.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Slicer3/!svn/ver/16998/trunk/Modules/EMSegment/Tcl/GenerateGraph.tcl
+END
+LevelSetSegmenter.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Slicer3/!svn/ver/16567/trunk/Modules/EMSegment/Tcl/LevelSetSegmenter.tcl
+END
+Tooltips.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Slicer3/!svn/ver/15041/trunk/Modules/EMSegment/Tcl/Tooltips.tcl
+END

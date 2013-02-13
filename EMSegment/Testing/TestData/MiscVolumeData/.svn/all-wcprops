@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/Slicer3/!svn/ver/16690/trunk/Modules/EMSegment/Testing/TestData/MiscVolumeData
+END
+NonHumanPrimate-Valentino_Unbiased.nrrd
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Slicer3/!svn/ver/15565/trunk/Modules/EMSegment/Testing/TestData/MiscVolumeData/NonHumanPrimate-Valentino_Unbiased.nrrd
+END
+MRIHumanBrainParcellation_T1.nrrd
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Slicer3/!svn/ver/15536/trunk/Modules/EMSegment/Testing/TestData/MiscVolumeData/MRIHumanBrainParcellation_T1.nrrd
+END
+CT-Hand-Bone.nrrd
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/Slicer3/!svn/ver/15750/trunk/Modules/EMSegment/Testing/TestData/MiscVolumeData/CT-Hand-Bone.nrrd
+END
+MRIHumanBrainParcellation_T1_aligned.nrrd
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/Slicer3/!svn/ver/15536/trunk/Modules/EMSegment/Testing/TestData/MiscVolumeData/MRIHumanBrainParcellation_T1_aligned.nrrd
+END
+NonHumanPrimate-Valentino-rescaled.nrrd
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Slicer3/!svn/ver/15565/trunk/Modules/EMSegment/Testing/TestData/MiscVolumeData/NonHumanPrimate-Valentino-rescaled.nrrd
+END
+MRIHumanBrain_T1_aligned.nrrd
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/Slicer3/!svn/ver/15537/trunk/Modules/EMSegment/Testing/TestData/MiscVolumeData/MRIHumanBrain_T1_aligned.nrrd
+END
+B.mhd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/Slicer3/!svn/ver/15041/trunk/Modules/EMSegment/Testing/TestData/MiscVolumeData/B.mhd
+END
+R.mhd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/Slicer3/!svn/ver/15041/trunk/Modules/EMSegment/Testing/TestData/MiscVolumeData/R.mhd
+END
+B.raw
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/Slicer3/!svn/ver/15041/trunk/Modules/EMSegment/Testing/TestData/MiscVolumeData/B.raw
+END
+R.raw
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/Slicer3/!svn/ver/15041/trunk/Modules/EMSegment/Testing/TestData/MiscVolumeData/R.raw
+END
+G.mhd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/Slicer3/!svn/ver/15041/trunk/Modules/EMSegment/Testing/TestData/MiscVolumeData/G.mhd
+END
+G.raw
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/Slicer3/!svn/ver/15041/trunk/Modules/EMSegment/Testing/TestData/MiscVolumeData/G.raw
+END

@@ -1,0 +1,473 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding
+END
+koi8-r.enc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/koi8-r.enc
+END
+cp1250.enc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/cp1250.enc
+END
+cp1251.enc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/cp1251.enc
+END
+koi8-u.enc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/koi8-u.enc
+END
+cp1252.enc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/cp1252.enc
+END
+cp1253.enc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/cp1253.enc
+END
+cp1254.enc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/cp1254.enc
+END
+cp1255.enc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/cp1255.enc
+END
+cp1256.enc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/cp1256.enc
+END
+cp1257.enc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/cp1257.enc
+END
+cp1258.enc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/cp1258.enc
+END
+euc-jp.enc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/euc-jp.enc
+END
+gb2312-raw.enc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/gb2312-raw.enc
+END
+ascii.enc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/ascii.enc
+END
+macCyrillic.enc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/macCyrillic.enc
+END
+ksc5601.enc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/ksc5601.enc
+END
+cp850.enc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/cp850.enc
+END
+gb2312.enc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/gb2312.enc
+END
+cp932.enc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/cp932.enc
+END
+cp852.enc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/cp852.enc
+END
+cp737.enc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/cp737.enc
+END
+cp855.enc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/cp855.enc
+END
+cp936.enc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/cp936.enc
+END
+cp775.enc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/cp775.enc
+END
+cp857.enc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/cp857.enc
+END
+iso2022-jp.enc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/iso2022-jp.enc
+END
+macRomania.enc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/macRomania.enc
+END
+euc-cn.enc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/euc-cn.enc
+END
+macJapan.enc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/macJapan.enc
+END
+macCroatian.enc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/macCroatian.enc
+END
+gb1988.enc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/gb1988.enc
+END
+iso8859-1.enc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/iso8859-1.enc
+END
+euc-kr.enc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/euc-kr.enc
+END
+iso8859-2.enc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/iso8859-2.enc
+END
+jis0201.enc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/jis0201.enc
+END
+iso8859-3.enc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/iso8859-3.enc
+END
+iso8859-4.enc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/iso8859-4.enc
+END
+iso8859-5.enc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/iso8859-5.enc
+END
+iso8859-6.enc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/iso8859-6.enc
+END
+iso8859-7.enc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/iso8859-7.enc
+END
+iso8859-8.enc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/iso8859-8.enc
+END
+macRoman.enc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/macRoman.enc
+END
+iso8859-9.enc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/iso8859-9.enc
+END
+jis0208.enc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/jis0208.enc
+END
+iso2022.enc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/iso2022.enc
+END
+cp860.enc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/cp860.enc
+END
+cp861.enc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/cp861.enc
+END
+cp862.enc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/cp862.enc
+END
+cp863.enc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/cp863.enc
+END
+cp864.enc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/cp864.enc
+END
+cp865.enc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/cp865.enc
+END
+macCentEuro.enc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/macCentEuro.enc
+END
+symbol.enc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/symbol.enc
+END
+iso8859-10.enc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/iso8859-10.enc
+END
+cp866.enc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/cp866.enc
+END
+macThai.enc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/macThai.enc
+END
+cp949.enc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/cp949.enc
+END
+iso8859-13.enc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/iso8859-13.enc
+END
+ebcdic.enc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/ebcdic.enc
+END
+cp869.enc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/cp869.enc
+END
+iso8859-14.enc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/iso8859-14.enc
+END
+iso2022-kr.enc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/iso2022-kr.enc
+END
+macTurkish.enc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/macTurkish.enc
+END
+iso8859-15.enc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/iso8859-15.enc
+END
+iso8859-16.enc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/iso8859-16.enc
+END
+macDingbats.enc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/macDingbats.enc
+END
+macGreek.enc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/macGreek.enc
+END
+macUkraine.enc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/macUkraine.enc
+END
+macIceland.enc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/macIceland.enc
+END
+shiftjis.enc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/shiftjis.enc
+END
+big5.enc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/big5.enc
+END
+gb12345.enc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/gb12345.enc
+END
+jis0212.enc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/jis0212.enc
+END
+dingbats.enc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/dingbats.enc
+END
+cp437.enc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/cp437.enc
+END
+cp950.enc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/cp950.enc
+END
+tis-620.enc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/tis-620.enc
+END
+cp874.enc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/library/encoding/cp874.enc
+END

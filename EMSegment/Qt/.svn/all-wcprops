@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/Slicer3/!svn/ver/17013/trunk/Modules/EMSegment/Qt
+END
+qSlicerEMSegmentQuickModule.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/Slicer3/!svn/ver/16935/trunk/Modules/EMSegment/Qt/qSlicerEMSegmentQuickModule.h
+END
+qSlicerEMSegmentModule.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Slicer3/!svn/ver/16939/trunk/Modules/EMSegment/Qt/qSlicerEMSegmentModule.h
+END
+qSlicerEMSegmentQuickModule.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/Slicer3/!svn/ver/16935/trunk/Modules/EMSegment/Qt/qSlicerEMSegmentQuickModule.cxx
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Slicer3/!svn/ver/16873/trunk/Modules/EMSegment/Qt/CMakeLists.txt
+END
+qSlicerEMSegmentModule.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Slicer3/!svn/ver/17003/trunk/Modules/EMSegment/Qt/qSlicerEMSegmentModule.cxx
+END

@@ -1,0 +1,7 @@
+#ifndef __testconfig_h__
+#define __testconfig_h__
+
+#define SLICERLIBCURL_SOURCE_DIR "${SLICERLIBCURL_SOURCE_DIR}"
+#define SLICERLIBCURL_BINARY_DIR "${SLICERLIBCURL_BINARY_DIR}"
+
+#endif /* __testconfig_h__ */

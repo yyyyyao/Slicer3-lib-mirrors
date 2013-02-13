@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/LPdir
+END
+LPdir_vms.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/LPdir/LPdir_vms.c
+END
+LPdir_wince.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/LPdir/LPdir_wince.c
+END
+LPdir_win.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/LPdir/LPdir_win.c
+END
+LPdir_nyi.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/LPdir/LPdir_nyi.c
+END
+LPdir_win32.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/LPdir/LPdir_win32.c
+END
+LPdir_unix.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/LPdir/LPdir_unix.c
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/md5
+END
+md5_locl.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/md5/md5_locl.h
+END
+md5_dgst.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/md5/md5_dgst.c
+END
+md5_one.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/md5/md5_one.c
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/md5/md5.h
+END

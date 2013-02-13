@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/Slicer3/!svn/ver/16439/trunk/Modules/EMSegment/Qt/Testing/Data/EMSeg-Brain-MRT1T2_small/VolumeData_Output
+END
+Segmentation-BrainTutorial-Defaults_small.nhdr
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/Slicer3/!svn/ver/16439/trunk/Modules/EMSegment/Qt/Testing/Data/EMSeg-Brain-MRT1T2_small/VolumeData_Output/Segmentation-BrainTutorial-Defaults_small.nhdr
+END
+Segmentation-BrainTutorial-Defaults_small.raw.gz
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/Slicer3/!svn/ver/16439/trunk/Modules/EMSegment/Qt/Testing/Data/EMSeg-Brain-MRT1T2_small/VolumeData_Output/Segmentation-BrainTutorial-Defaults_small.raw.gz
+END

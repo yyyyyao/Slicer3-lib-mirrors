@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/build/lib/weave
+END
+bytecodecompiler.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/build/lib/weave/bytecodecompiler.py
+END
+converters.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/build/lib/weave/converters.py
+END
+info.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/build/lib/weave/info.py
+END
+c_spec.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/build/lib/weave/c_spec.py
+END
+slice_handler.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/build/lib/weave/slice_handler.py
+END
+blitz_spec.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/build/lib/weave/blitz_spec.py
+END
+inline_tools.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/build/lib/weave/inline_tools.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/build/lib/weave/__init__.py
+END
+platform_info.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/build/lib/weave/platform_info.py
+END
+swigptr.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/build/lib/weave/swigptr.py
+END
+common_info.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/build/lib/weave/common_info.py
+END
+blitz_tools.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/build/lib/weave/blitz_tools.py
+END
+swig2_spec.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/build/lib/weave/swig2_spec.py
+END
+setupscons.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/build/lib/weave/setupscons.py
+END
+ast_tools.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/build/lib/weave/ast_tools.py
+END
+numpy_scalar_spec.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/build/lib/weave/numpy_scalar_spec.py
+END
+size_check.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/build/lib/weave/size_check.py
+END
+cpp_namespace_spec.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/build/lib/weave/cpp_namespace_spec.py
+END
+accelerate_tools.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/build/lib/weave/accelerate_tools.py
+END
+standard_array_spec.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/build/lib/weave/standard_array_spec.py
+END
+catalog.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/build/lib/weave/catalog.py
+END
+weave_version.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/build/lib/weave/weave_version.py
+END
+vtk_spec.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/build/lib/weave/vtk_spec.py
+END
+build_tools.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/build/lib/weave/build_tools.py
+END
+ext_tools.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/build/lib/weave/ext_tools.py
+END
+swigptr2.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/build/lib/weave/swigptr2.py
+END
+base_spec.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/build/lib/weave/base_spec.py
+END
+md5_load.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/build/lib/weave/md5_load.py
+END
+base_info.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/build/lib/weave/base_info.py
+END

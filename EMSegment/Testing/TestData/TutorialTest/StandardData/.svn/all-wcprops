@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/Slicer3/!svn/ver/15041/trunk/Modules/EMSegment/Testing/TestData/TutorialTest/StandardData
+END
+StandardSegmentationResult_small_normalizationOn.mhd
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/Slicer3/!svn/ver/15041/trunk/Modules/EMSegment/Testing/TestData/TutorialTest/StandardData/StandardSegmentationResult_small_normalizationOn.mhd
+END
+StandardSegmentationResult_small_normalizationOn.raw
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/Slicer3/!svn/ver/15041/trunk/Modules/EMSegment/Testing/TestData/TutorialTest/StandardData/StandardSegmentationResult_small_normalizationOn.raw
+END
+StandardSegmentationResult_small.mhd
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/Slicer3/!svn/ver/15041/trunk/Modules/EMSegment/Testing/TestData/TutorialTest/StandardData/StandardSegmentationResult_small.mhd
+END
+StandardSegmentationResult_small.raw
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/Slicer3/!svn/ver/15041/trunk/Modules/EMSegment/Testing/TestData/TutorialTest/StandardData/StandardSegmentationResult_small.raw
+END

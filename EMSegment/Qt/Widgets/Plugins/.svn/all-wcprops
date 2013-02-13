@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Slicer3/!svn/ver/16755/trunk/Modules/EMSegment/Qt/Widgets/Plugins
+END
+qSlicerEMSegmentInputChannelListWidgetPlugin.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Slicer3/!svn/ver/16439/trunk/Modules/EMSegment/Qt/Widgets/Plugins/qSlicerEMSegmentInputChannelListWidgetPlugin.cxx
+END
+qSlicerEMSegmentWidgetPlugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/Slicer3/!svn/ver/16439/trunk/Modules/EMSegment/Qt/Widgets/Plugins/qSlicerEMSegmentWidgetPlugin.h
+END
+qSlicerEMSegmentWidgetsAbstractPlugin.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/Slicer3/!svn/ver/16439/trunk/Modules/EMSegment/Qt/Widgets/Plugins/qSlicerEMSegmentWidgetsAbstractPlugin.cxx
+END
+qSlicerEMSegmentWidgetsPlugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/Slicer3/!svn/ver/16439/trunk/Modules/EMSegment/Qt/Widgets/Plugins/qSlicerEMSegmentWidgetsPlugin.h
+END
+qSlicerEMSegmentAnatomicalTreeWidgetPlugin.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Slicer3/!svn/ver/16439/trunk/Modules/EMSegment/Qt/Widgets/Plugins/qSlicerEMSegmentAnatomicalTreeWidgetPlugin.cxx
+END
+qSlicerEMSegmentInputChannelListWidgetPlugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Slicer3/!svn/ver/16439/trunk/Modules/EMSegment/Qt/Widgets/Plugins/qSlicerEMSegmentInputChannelListWidgetPlugin.h
+END
+qSlicerEMSegmentWidgetsPluginExport.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/Slicer3/!svn/ver/16439/trunk/Modules/EMSegment/Qt/Widgets/Plugins/qSlicerEMSegmentWidgetsPluginExport.h
+END
+qSlicerEMSegmentWidgetsAbstractPlugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/Slicer3/!svn/ver/16439/trunk/Modules/EMSegment/Qt/Widgets/Plugins/qSlicerEMSegmentWidgetsAbstractPlugin.h
+END
+qSlicerEMSegmentAnatomicalTreeWidgetPlugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Slicer3/!svn/ver/16439/trunk/Modules/EMSegment/Qt/Widgets/Plugins/qSlicerEMSegmentAnatomicalTreeWidgetPlugin.h
+END
+qSlicerEMSegmentWidgetPlugin.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/Slicer3/!svn/ver/16439/trunk/Modules/EMSegment/Qt/Widgets/Plugins/qSlicerEMSegmentWidgetPlugin.cxx
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/Slicer3/!svn/ver/16755/trunk/Modules/EMSegment/Qt/Widgets/Plugins/CMakeLists.txt
+END
+qSlicerEMSegmentWidgetsPlugin.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/Slicer3/!svn/ver/16439/trunk/Modules/EMSegment/Qt/Widgets/Plugins/qSlicerEMSegmentWidgetsPlugin.cxx
+END

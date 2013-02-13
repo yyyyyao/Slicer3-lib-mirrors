@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/config
+END
+mkinstalldirs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/config/mkinstalldirs
+END
+installFile.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/config/installFile.tcl
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/config/config.guess
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/config/config.sub
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/config/install-sh
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/itk/mac
+END
+itkMacResource.r
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/itk/mac/itkMacResource.r
+END
+itkStaticApplication.r
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/itk/mac/itkStaticApplication.r
+END
+tkMacAppInit.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/itk/mac/tkMacAppInit.c
+END
+itkMacTclCode.r
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/itk/mac/itkMacTclCode.r
+END
+pkgIndex.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/itk/mac/pkgIndex.tcl
+END
+tclIndex
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/itk/mac/tclIndex
+END
+MW_ItkHeader.pch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/itk/mac/MW_ItkHeader.pch
+END
+itkMacApplication.r
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/itk/mac/itkMacApplication.r
+END
+itkMacLibrary.r
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/itk/mac/itkMacLibrary.r
+END

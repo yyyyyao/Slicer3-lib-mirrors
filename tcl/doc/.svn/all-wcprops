@@ -1,0 +1,1163 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc
+END
+GetOpnFl.3
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/GetOpnFl.3
+END
+Notifier.3
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/Notifier.3
+END
+seek.n
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/seek.n
+END
+socket.n
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/socket.n
+END
+InitStubs.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/InitStubs.3
+END
+IntObj.3
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/IntObj.3
+END
+set.n
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/set.n
+END
+if.n
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/if.n
+END
+UniCharIsAlpha.3
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/UniCharIsAlpha.3
+END
+subst.n
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/subst.n
+END
+interp.n
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/interp.n
+END
+close.n
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/close.n
+END
+DoubleObj.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/DoubleObj.3
+END
+read.n
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/read.n
+END
+Thread.3
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/Thread.3
+END
+array.n
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/array.n
+END
+flush.n
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/flush.n
+END
+tcltest.n
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/tcltest.n
+END
+continue.n
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/continue.n
+END
+encoding.n
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/encoding.n
+END
+split.n
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/split.n
+END
+Eval.3
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/Eval.3
+END
+namespace.n
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/namespace.n
+END
+upvar.n
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/upvar.n
+END
+time.n
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/time.n
+END
+gets.n
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/gets.n
+END
+ToUpper.3
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/ToUpper.3
+END
+SetErrno.3
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/SetErrno.3
+END
+SetRecLmt.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/SetRecLmt.3
+END
+CrtTimerHdlr.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/CrtTimerHdlr.3
+END
+eof.n
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/eof.n
+END
+SetVar.3
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/SetVar.3
+END
+ListObj.3
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/ListObj.3
+END
+list.n
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/list.n
+END
+CrtTrace.3
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/CrtTrace.3
+END
+CrtChnlHdlr.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/CrtChnlHdlr.3
+END
+Sleep.3
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/Sleep.3
+END
+Exit.3
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/Exit.3
+END
+DString.3
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/DString.3
+END
+tclsh.1
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/tclsh.1
+END
+Async.3
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/Async.3
+END
+scan.n
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/scan.n
+END
+variable.n
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/variable.n
+END
+cd.n
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/cd.n
+END
+fconfigure.n
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/fconfigure.n
+END
+TraceCmd.3
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/TraceCmd.3
+END
+DoWhenIdle.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/DoWhenIdle.3
+END
+Hash.3
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/Hash.3
+END
+BackgdErr.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/BackgdErr.3
+END
+pwd.n
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/pwd.n
+END
+regexp.n
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/regexp.n
+END
+vwait.n
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/vwait.n
+END
+TCL_MEM_DEBUG.3
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/TCL_MEM_DEBUG.3
+END
+incr.n
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/incr.n
+END
+dde.n
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/dde.n
+END
+llength.n
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/llength.n
+END
+unknown.n
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/unknown.n
+END
+Backslash.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/Backslash.3
+END
+source.n
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/source.n
+END
+after.n
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/after.n
+END
+Translate.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/Translate.3
+END
+GetTime.3
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/GetTime.3
+END
+string.n
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/string.n
+END
+concat.n
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/concat.n
+END
+AssocData.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/AssocData.3
+END
+lrange.n
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/lrange.n
+END
+fblocked.n
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/fblocked.n
+END
+uplevel.n
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/uplevel.n
+END
+SplitPath.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/SplitPath.3
+END
+ObjectType.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/ObjectType.3
+END
+load.n
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/load.n
+END
+fileevent.n
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/fileevent.n
+END
+lsearch.n
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/lsearch.n
+END
+catch.n
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/catch.n
+END
+resource.n
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/resource.n
+END
+BoolObj.3
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/BoolObj.3
+END
+packagens.n
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/packagens.n
+END
+WrongNumArgs.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/WrongNumArgs.3
+END
+unset.n
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/unset.n
+END
+man.macros
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/man.macros
+END
+ExprLong.3
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/ExprLong.3
+END
+proc.n
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/proc.n
+END
+library.n
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/library.n
+END
+StringObj.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/StringObj.3
+END
+append.n
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/append.n
+END
+OpenTcp.3
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/OpenTcp.3
+END
+RecEvalObj.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/RecEvalObj.3
+END
+PkgRequire.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/PkgRequire.3
+END
+glob.n
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/glob.n
+END
+CrtChannel.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/CrtChannel.3
+END
+eval.n
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/eval.n
+END
+format.n
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/format.n
+END
+FileSystem.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/FileSystem.3
+END
+GetStdChan.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/GetStdChan.3
+END
+clock.n
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/clock.n
+END
+package.n
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/package.n
+END
+SplitList.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/SplitList.3
+END
+trace.n
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/trace.n
+END
+SetResult.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/SetResult.3
+END
+GetInt.3
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/GetInt.3
+END
+tell.n
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/tell.n
+END
+history.n
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/history.n
+END
+switch.n
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/switch.n
+END
+bgerror.n
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/bgerror.n
+END
+foreach.n
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/foreach.n
+END
+CrtFileHdlr.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/CrtFileHdlr.3
+END
+exit.n
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/exit.n
+END
+Environment.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/Environment.3
+END
+OpenFileChnl.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/OpenFileChnl.3
+END
+DetachPids.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/DetachPids.3
+END
+http.n
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/http.n
+END
+fcopy.n
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/fcopy.n
+END
+Tcl.n
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/Tcl.n
+END
+Signal.3
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/Signal.3
+END
+AddErrInfo.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/AddErrInfo.3
+END
+binary.n
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/binary.n
+END
+regsub.n
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/regsub.n
+END
+error.n
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/error.n
+END
+Macintosh.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/Macintosh.3
+END
+RecordEval.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/RecordEval.3
+END
+info.n
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/info.n
+END
+Alloc.3
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/Alloc.3
+END
+join.n
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/join.n
+END
+Preserve.3
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/Preserve.3
+END
+global.n
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/global.n
+END
+UpVar.3
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/UpVar.3
+END
+SaveResult.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/SaveResult.3
+END
+ParseCmd.3
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/ParseCmd.3
+END
+lsort.n
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/lsort.n
+END
+Interp.3
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/Interp.3
+END
+rename.n
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/rename.n
+END
+Init.3
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/Init.3
+END
+memory.n
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/memory.n
+END
+case.n
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/case.n
+END
+StdChannels.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/StdChannels.3
+END
+DoOneEvent.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/DoOneEvent.3
+END
+CrtObjCmd.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/CrtObjCmd.3
+END
+expr.n
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/expr.n
+END
+msgcat.n
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/msgcat.n
+END
+tclvars.n
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/tclvars.n
+END
+return.n
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/return.n
+END
+AllowExc.3
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/AllowExc.3
+END
+GetHostName.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/GetHostName.3
+END
+lindex.n
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/lindex.n
+END
+exec.n
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/exec.n
+END
+break.n
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/break.n
+END
+for.n
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/for.n
+END
+SourceRCFile.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/SourceRCFile.3
+END
+Encoding.3
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/Encoding.3
+END
+CrtCloseHdlr.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/CrtCloseHdlr.3
+END
+RegExp.3
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/RegExp.3
+END
+DumpActiveMemory.3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/DumpActiveMemory.3
+END
+Panic.3
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/Panic.3
+END
+open.n
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/open.n
+END
+Utf.3
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/Utf.3
+END
+Access.3
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/Access.3
+END
+ByteArrObj.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/ByteArrObj.3
+END
+registry.n
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/registry.n
+END
+AppInit.3
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/AppInit.3
+END
+TraceVar.3
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/TraceVar.3
+END
+re_syntax.n
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/re_syntax.n
+END
+safe.n
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/safe.n
+END
+CrtInterp.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/CrtInterp.3
+END
+linsert.n
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/linsert.n
+END
+GetCwd.3
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/GetCwd.3
+END
+PrintDbl.3
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/PrintDbl.3
+END
+lappend.n
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/lappend.n
+END
+lreplace.n
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/lreplace.n
+END
+CrtSlave.3
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/CrtSlave.3
+END
+StrMatch.3
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/StrMatch.3
+END
+FindExec.3
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/FindExec.3
+END
+GetVersion.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/GetVersion.3
+END
+Tcl_Main.3
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/Tcl_Main.3
+END
+puts.n
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/puts.n
+END
+CrtCommand.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/CrtCommand.3
+END
+StaticPkg.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/StaticPkg.3
+END
+CrtMathFnc.3
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/CrtMathFnc.3
+END
+ExprLongObj.3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/ExprLongObj.3
+END
+SubstObj.3
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/SubstObj.3
+END
+pkgMkIndex.n
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/pkgMkIndex.n
+END
+CallDel.3
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/CallDel.3
+END
+lset.n
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/lset.n
+END
+CmdCmplt.3
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/CmdCmplt.3
+END
+while.n
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/while.n
+END
+LinkVar.3
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/LinkVar.3
+END
+Object.3
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/Object.3
+END
+Concat.3
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/Concat.3
+END
+GetIndex.3
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/GetIndex.3
+END
+pid.n
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/pid.n
+END
+file.n
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/file.n
+END
+ChnlStack.3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/ChnlStack.3
+END
+filename.n
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/filename.n
+END
+update.n
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/doc/update.n
+END

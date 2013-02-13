@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/NAMICSandBox/!svn/ver/7354/trunk/OpenIGTLink/Examples/QuaternionTrackingData
+END
+QuaternionTrackingDataClient.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/NAMICSandBox/!svn/ver/7354/trunk/OpenIGTLink/Examples/QuaternionTrackingData/QuaternionTrackingDataClient.cxx
+END
+QuaternionTrackingDataServer.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/NAMICSandBox/!svn/ver/7354/trunk/OpenIGTLink/Examples/QuaternionTrackingData/QuaternionTrackingDataServer.cxx
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/NAMICSandBox/!svn/ver/7354/trunk/OpenIGTLink/Examples/QuaternionTrackingData/CMakeLists.txt
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/meta
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/meta/Makefile.in
+END
+metaprog.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/meta/metaprog.h
+END
+matvec.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/meta/matvec.h
+END
+product.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/meta/product.h
+END
+vecassign.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/meta/vecassign.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/meta/Makefile.am
+END
+matmat.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/meta/matmat.h
+END
+sum.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/meta/sum.h
+END
+dot.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/meta/dot.h
+END
+matassign.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/meta/matassign.h
+END

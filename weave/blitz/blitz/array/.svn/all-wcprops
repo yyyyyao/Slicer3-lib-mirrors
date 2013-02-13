@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/array
+END
+misc.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/array/misc.cc
+END
+convolve.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/array/convolve.cc
+END
+convolve.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/array/convolve.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/array/Makefile.in
+END
+cycle.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/array/cycle.cc
+END
+resize.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/array/resize.cc
+END
+slice.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/array/slice.h
+END
+bops.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/array/bops.cc
+END
+cgsolve.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/array/cgsolve.h
+END
+zip.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/array/zip.h
+END
+iter.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/array/iter.h
+END
+io.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/array/io.cc
+END
+complex.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/array/complex.cc
+END
+domain.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/array/domain.h
+END
+stencil-et.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/array/stencil-et.h
+END
+et.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/array/et.h
+END
+fastiter.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/array/fastiter.h
+END
+stencils.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/array/stencils.h
+END
+uops.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/array/uops.cc
+END
+multi.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/array/multi.h
+END
+geometry.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/array/geometry.h
+END
+ops.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/array/ops.cc
+END
+stencil.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/array/stencil.cc
+END
+shape.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/array/shape.h
+END
+ops.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/array/ops.h
+END
+methods.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/array/methods.cc
+END
+indirect.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/array/indirect.h
+END
+stencil.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/array/stencil.h
+END
+asexpr.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/array/asexpr.h
+END
+newet-macros.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/array/newet-macros.h
+END
+interlace.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/array/interlace.cc
+END
+storage.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/array/storage.h
+END
+reduce.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/array/reduce.cc
+END
+reduce.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/array/reduce.h
+END
+cartesian.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/array/cartesian.h
+END
+where.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/array/where.h
+END
+newbops.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/array/newbops.cc
+END
+map.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/array/map.h
+END
+expr.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/array/expr.h
+END
+funcs.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/array/funcs.h
+END
+functorExpr.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/array/functorExpr.h
+END
+newet.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/array/newet.h
+END
+stencils.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/array/stencils.cc
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/array/Makefile.am
+END
+stencilops.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/array/stencilops.h
+END
+eval.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/array/eval.cc
+END
+slicing.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz/blitz/array/slicing.cc
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/itcl/generic
+END
+itcl.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/itcl/generic/itcl.h
+END
+itcl_cmds.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/itcl/generic/itcl_cmds.c
+END
+itcl_migrate.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/itcl/generic/itcl_migrate.c
+END
+itcl.decls
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/itcl/generic/itcl.decls
+END
+itcl_objects.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/itcl/generic/itcl_objects.c
+END
+itcl_ensemble.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/itcl/generic/itcl_ensemble.c
+END
+itclInt.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/itcl/generic/itclInt.h
+END
+itclDecls.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/itcl/generic/itclDecls.h
+END
+itcl_bicmds.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/itcl/generic/itcl_bicmds.c
+END
+itclStubInit.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/itcl/generic/itclStubInit.c
+END
+itcl_methods.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/itcl/generic/itcl_methods.c
+END
+itclInt.decls
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/itcl/generic/itclInt.decls
+END
+itcl_class.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/itcl/generic/itcl_class.c
+END
+itclStubLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/itcl/generic/itclStubLib.c
+END
+itcl_parse.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/itcl/generic/itcl_parse.c
+END
+itcl_linkage.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/itcl/generic/itcl_linkage.c
+END
+itclIntDecls.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/itcl/generic/itclIntDecls.h
+END
+itcl_obsolete.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/itcl/generic/itcl_obsolete.c
+END
+itcl_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/itcl/generic/itcl_util.c
+END

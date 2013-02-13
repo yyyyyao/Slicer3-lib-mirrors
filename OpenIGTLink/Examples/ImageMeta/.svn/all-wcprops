@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/NAMICSandBox/!svn/ver/6525/trunk/OpenIGTLink/Examples/ImageMeta
+END
+ImageMetaServer.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/NAMICSandBox/!svn/ver/6525/trunk/OpenIGTLink/Examples/ImageMeta/ImageMetaServer.cxx
+END
+LabelMetaClient.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/NAMICSandBox/!svn/ver/6525/trunk/OpenIGTLink/Examples/ImageMeta/LabelMetaClient.cxx
+END
+ImageMetaClient.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/NAMICSandBox/!svn/ver/6525/trunk/OpenIGTLink/Examples/ImageMeta/ImageMetaClient.cxx
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/NAMICSandBox/!svn/ver/6519/trunk/OpenIGTLink/Examples/ImageMeta/CMakeLists.txt
+END
+LabelMetaServer.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/NAMICSandBox/!svn/ver/6525/trunk/OpenIGTLink/Examples/ImageMeta/LabelMetaServer.cxx
+END

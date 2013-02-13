@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/Slicer3/!svn/ver/15041/trunk/Modules/EMSegment/Testing/TestData/TutorialTest2/StandardData
+END
+Segmentation_AllReg_med.raw.gz
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Slicer3/!svn/ver/15041/trunk/Modules/EMSegment/Testing/TestData/TutorialTest2/StandardData/Segmentation_AllReg_med.raw.gz
+END
+Segmentation_A2TReg_med.nhdr
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/Slicer3/!svn/ver/15041/trunk/Modules/EMSegment/Testing/TestData/TutorialTest2/StandardData/Segmentation_A2TReg_med.nhdr
+END
+Segmentation_T2TReg_med.raw.gz
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Slicer3/!svn/ver/15041/trunk/Modules/EMSegment/Testing/TestData/TutorialTest2/StandardData/Segmentation_T2TReg_med.raw.gz
+END
+Segmentation_AllReg_med.nhdr
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/Slicer3/!svn/ver/15041/trunk/Modules/EMSegment/Testing/TestData/TutorialTest2/StandardData/Segmentation_AllReg_med.nhdr
+END
+Segmentation_NoReg_med.raw.gz
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/Slicer3/!svn/ver/15041/trunk/Modules/EMSegment/Testing/TestData/TutorialTest2/StandardData/Segmentation_NoReg_med.raw.gz
+END
+Segmentation_T2TReg_med.nhdr
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/Slicer3/!svn/ver/15041/trunk/Modules/EMSegment/Testing/TestData/TutorialTest2/StandardData/Segmentation_T2TReg_med.nhdr
+END
+Segmentation_NoReg_med.nhdr
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Slicer3/!svn/ver/15041/trunk/Modules/EMSegment/Testing/TestData/TutorialTest2/StandardData/Segmentation_NoReg_med.nhdr
+END
+Segmentation_med.raw.gz
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Slicer3/!svn/ver/15041/trunk/Modules/EMSegment/Testing/TestData/TutorialTest2/StandardData/Segmentation_med.raw.gz
+END
+Segmentation_med.nhdr
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Slicer3/!svn/ver/15041/trunk/Modules/EMSegment/Testing/TestData/TutorialTest2/StandardData/Segmentation_med.nhdr
+END
+Segmentation_A2TReg_med.raw.gz
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Slicer3/!svn/ver/15041/trunk/Modules/EMSegment/Testing/TestData/TutorialTest2/StandardData/Segmentation_A2TReg_med.raw.gz
+END

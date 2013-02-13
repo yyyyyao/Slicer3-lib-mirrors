@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/scxx
+END
+tuple.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/scxx/tuple.h
+END
+list.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/scxx/list.h
+END
+notes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/scxx/notes.txt
+END
+dict.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/scxx/dict.h
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/scxx/README.txt
+END
+scxx.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/scxx/scxx.h
+END
+object.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/scxx/object.h
+END
+weave_imp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/scxx/weave_imp.cpp
+END
+number.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/scxx/number.h
+END
+sequence.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/scxx/sequence.h
+END
+str.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/scxx/str.h
+END

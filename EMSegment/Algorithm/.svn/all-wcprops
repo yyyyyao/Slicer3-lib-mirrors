@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3/!svn/ver/16998/trunk/Modules/EMSegment/Algorithm
+END
+vtkImageEMLocalClass.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/Slicer3/!svn/ver/16789/trunk/Modules/EMSegment/Algorithm/vtkImageEMLocalClass.h
+END
+EMLocalAlgorithm_Print.txx
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/Slicer3/!svn/ver/16665/trunk/Modules/EMSegment/Algorithm/EMLocalAlgorithm_Print.txx
+END
+EMLocalShapeCostFunction.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/Slicer3/!svn/ver/16475/trunk/Modules/EMSegment/Algorithm/EMLocalShapeCostFunction.h
+END
+vtkTimeDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Slicer3/!svn/ver/16475/trunk/Modules/EMSegment/Algorithm/vtkTimeDef.h
+END
+vtkImageEMLocalGenericClass.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/Slicer3/!svn/ver/16679/trunk/Modules/EMSegment/Algorithm/vtkImageEMLocalGenericClass.cxx
+END
+EMLocalRegistrationCostFunction.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/Slicer3/!svn/ver/16475/trunk/Modules/EMSegment/Algorithm/EMLocalRegistrationCostFunction.h
+END
+EMLocalInterface.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/Slicer3/!svn/ver/15041/trunk/Modules/EMSegment/Algorithm/EMLocalInterface.cxx
+END
+vtkImageEMMarkov.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/Slicer3/!svn/ver/16538/trunk/Modules/EMSegment/Algorithm/vtkImageEMMarkov.h
+END
+vtkImageEMLocalSuperClass.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/Slicer3/!svn/ver/16547/trunk/Modules/EMSegment/Algorithm/vtkImageEMLocalSuperClass.h
+END
+EMLocalAlgorithm_MeanField.txx
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/Slicer3/!svn/ver/15696/trunk/Modules/EMSegment/Algorithm/EMLocalAlgorithm_MeanField.txx
+END
+EMLocalAlgorithm_Initialization.txx
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/Slicer3/!svn/ver/16697/trunk/Modules/EMSegment/Algorithm/EMLocalAlgorithm_Initialization.txx
+END
+vtkImageEMLocalGenericClass.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/Slicer3/!svn/ver/16567/trunk/Modules/EMSegment/Algorithm/vtkImageEMLocalGenericClass.h
+END
+vtkImageEMGenericClass.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/Slicer3/!svn/ver/16538/trunk/Modules/EMSegment/Algorithm/vtkImageEMGenericClass.cxx
+END
+vtkDataDef.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Slicer3/!svn/ver/16538/trunk/Modules/EMSegment/Algorithm/vtkDataDef.cxx
+END
+vtkImageEMLocalSegmenter.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/Slicer3/!svn/ver/16998/trunk/Modules/EMSegment/Algorithm/vtkImageEMLocalSegmenter.cxx
+END
+itkEMLocalOptimization.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/Slicer3/!svn/ver/16538/trunk/Modules/EMSegment/Algorithm/itkEMLocalOptimization.h
+END
+EMLocalInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/Slicer3/!svn/ver/16475/trunk/Modules/EMSegment/Algorithm/EMLocalInterface.h
+END
+vtkImageEMGeneral.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/Slicer3/!svn/ver/16538/trunk/Modules/EMSegment/Algorithm/vtkImageEMGeneral.cxx
+END
+EMLocalAlgorithm_Miscellaneous.txx
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/Slicer3/!svn/ver/16547/trunk/Modules/EMSegment/Algorithm/EMLocalAlgorithm_Miscellaneous.txx
+END
+vtkImageEMLocalClass.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/Slicer3/!svn/ver/16538/trunk/Modules/EMSegment/Algorithm/vtkImageEMLocalClass.cxx
+END
+EMLocalShapeCostFunction.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/Slicer3/!svn/ver/16547/trunk/Modules/EMSegment/Algorithm/EMLocalShapeCostFunction.cxx
+END
+vtkImageEMGenericClass.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/Slicer3/!svn/ver/16538/trunk/Modules/EMSegment/Algorithm/vtkImageEMGenericClass.h
+END
+vtkTimeDef.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Slicer3/!svn/ver/15041/trunk/Modules/EMSegment/Algorithm/vtkTimeDef.cxx
+END
+vtkDataDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Slicer3/!svn/ver/16538/trunk/Modules/EMSegment/Algorithm/vtkDataDef.h
+END
+vtkImageEMLocalSegmenter.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/Slicer3/!svn/ver/16692/trunk/Modules/EMSegment/Algorithm/vtkImageEMLocalSegmenter.h
+END
+EMLocalAlgorithm.txx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/Slicer3/!svn/ver/16915/trunk/Modules/EMSegment/Algorithm/EMLocalAlgorithm.txx
+END
+EMLocalRegistrationCostFunction.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/Slicer3/!svn/ver/16547/trunk/Modules/EMSegment/Algorithm/EMLocalRegistrationCostFunction.cxx
+END
+EMLocalAlgorithm.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/Slicer3/!svn/ver/16915/trunk/Modules/EMSegment/Algorithm/EMLocalAlgorithm.h
+END
+vtkImageEMMarkov.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/Slicer3/!svn/ver/15041/trunk/Modules/EMSegment/Algorithm/vtkImageEMMarkov.cxx
+END
+vtkImageEMLocalSuperClass.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/Slicer3/!svn/ver/16568/trunk/Modules/EMSegment/Algorithm/vtkImageEMLocalSuperClass.cxx
+END
+vtkImageEMGeneral.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Slicer3/!svn/ver/16538/trunk/Modules/EMSegment/Algorithm/vtkImageEMGeneral.h
+END

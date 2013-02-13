@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/Slicer3-lib-mirrors/!svn/ver/129/trunk/cmcurl/CMake
+END
+CheckTypeSize.c.in
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/CMake/CheckTypeSize.c.in
+END
+curlCheckCAcceptsFlags.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/Slicer3-lib-mirrors/!svn/ver/129/trunk/cmcurl/CMake/curlCheckCAcceptsFlags.cmake
+END
+SLICERLIBCURLConfig.cmake.in
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/Slicer3-lib-mirrors/!svn/ver/36/trunk/cmcurl/CMake/SLICERLIBCURLConfig.cmake.in
+END
+CheckTypeSize.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/CMake/CheckTypeSize.cmake
+END
+CurlTests.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/CMake/CurlTests.c
+END
+UseSLICERLIBCURL.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Slicer3-lib-mirrors/!svn/ver/36/trunk/cmcurl/CMake/UseSLICERLIBCURL.cmake
+END

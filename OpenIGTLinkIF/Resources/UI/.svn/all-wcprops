@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/NAMICSandBox/!svn/ver/7894/trunk/IGTLoadableModules/QtModules/OpenIGTLinkIF/Resources/UI
+END
+qSlicerIGTLIOPropertyWidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/NAMICSandBox/!svn/ver/7852/trunk/IGTLoadableModules/QtModules/OpenIGTLinkIF/Resources/UI/qSlicerIGTLIOPropertyWidget.ui
+END
+qSlicerIGTLIONodeSelectorWidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/NAMICSandBox/!svn/ver/7863/trunk/IGTLoadableModules/QtModules/OpenIGTLinkIF/Resources/UI/qSlicerIGTLIONodeSelectorWidget.ui
+END
+qSlicerIGTLConnectorPropertyWidget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/NAMICSandBox/!svn/ver/7851/trunk/IGTLoadableModules/QtModules/OpenIGTLinkIF/Resources/UI/qSlicerIGTLConnectorPropertyWidget.ui
+END
+qSlicerOpenIGTLinkIFModule.ui
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/NAMICSandBox/!svn/ver/7894/trunk/IGTLoadableModules/QtModules/OpenIGTLinkIF/Resources/UI/qSlicerOpenIGTLinkIFModule.ui
+END

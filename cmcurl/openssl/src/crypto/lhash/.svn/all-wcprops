@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/lhash
+END
+lhash.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/lhash/lhash.c
+END
+lh_stats.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/lhash/lh_stats.c
+END
+lhash.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/lhash/lhash.h
+END

@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/tools
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/tools/configure
+END
+man2tcl.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/tools/man2tcl.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/tools/Makefile.in
+END
+tcltk-man2html.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/tools/tcltk-man2html.tcl
+END
+tclmin.wse
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/tools/tclmin.wse
+END
+man2html1.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/tools/man2html1.tcl
+END
+tcl.wse.in
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/tools/tcl.wse.in
+END
+man2html2.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/tools/man2html2.tcl
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/tools/configure.in
+END
+man2help.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/tools/man2help.tcl
+END
+index.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/tools/index.tcl
+END
+feather.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/tools/feather.bmp
+END
+white.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/tools/white.bmp
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/tools/README
+END
+str2c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/tools/str2c
+END
+regexpTestLib.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/tools/regexpTestLib.tcl
+END
+uniClass.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/tools/uniClass.tcl
+END
+man2html.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/tools/man2html.tcl
+END
+eolFix.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/tools/eolFix.tcl
+END
+tcl.hpj.in
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/tools/tcl.hpj.in
+END
+uniParse.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/tools/uniParse.tcl
+END
+man2help2.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/tools/man2help2.tcl
+END
+checkLibraryDoc.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/tools/checkLibraryDoc.tcl
+END
+tclSplash.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/tools/tclSplash.bmp
+END
+genWinImage.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/tools/genWinImage.tcl
+END
+genStubs.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/tools/genStubs.tcl
+END
+cvtEOL.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/tools/cvtEOL.tcl
+END

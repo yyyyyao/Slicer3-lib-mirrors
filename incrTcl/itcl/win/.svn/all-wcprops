@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/itcl/win
+END
+makefile.bc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/itcl/win/makefile.bc
+END
+makefile.vc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/itcl/win/makefile.vc
+END
+dllEntryPoint.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/itcl/win/dllEntryPoint.c
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/itcl/win/.cvsignore
+END

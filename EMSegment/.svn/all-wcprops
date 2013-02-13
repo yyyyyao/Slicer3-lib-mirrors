@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/Slicer3/!svn/ver/17018/trunk/Modules/EMSegment
+END
+vtkEMSegment.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Slicer3/!svn/ver/16843/trunk/Modules/EMSegment/vtkEMSegment.h
+END
+vtkSlicerCommonInterface.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/Slicer3/!svn/ver/16956/trunk/Modules/EMSegment/vtkSlicerCommonInterface.cxx
+END
+vtkEMSegmentMRMLManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Slicer3/!svn/ver/17003/trunk/Modules/EMSegment/vtkEMSegmentMRMLManager.h
+END
+vtkSlicerCommonInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Slicer3/!svn/ver/16951/trunk/Modules/EMSegment/vtkSlicerCommonInterface.h
+END
+vtkEMSegmentConfigure.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Slicer3/!svn/ver/15041/trunk/Modules/EMSegment/vtkEMSegmentConfigure.h.in
+END
+vtkSlicerEMSegmentModuleLogicExport.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/Slicer3/!svn/ver/16843/trunk/Modules/EMSegment/vtkSlicerEMSegmentModuleLogicExport.h
+END
+vtkEMSegmentLogic.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Slicer3/!svn/ver/17018/trunk/Modules/EMSegment/vtkEMSegmentLogic.cxx
+END
+vtkEMSegmentWin32Header.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Slicer3/!svn/ver/16503/trunk/Modules/EMSegment/vtkEMSegmentWin32Header.h
+END
+vtkEMSegmentMRMLManager.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Slicer3/!svn/ver/17018/trunk/Modules/EMSegment/vtkEMSegmentMRMLManager.cxx
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/Slicer3/!svn/ver/15041/trunk/Modules/EMSegment/README
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Slicer3/!svn/ver/16929/trunk/Modules/EMSegment/CMakeLists.txt
+END
+vtkEMSegmentLogic.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Slicer3/!svn/ver/17005/trunk/Modules/EMSegment/vtkEMSegmentLogic.h
+END

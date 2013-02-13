@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/NAMICSandBox/!svn/ver/8022/trunk/IGTLoadableModules/QtModules/OpenIGTLinkIF
+END
+qSlicerOpenIGTLinkIFModuleWidget.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/NAMICSandBox/!svn/ver/8021/trunk/IGTLoadableModules/QtModules/OpenIGTLinkIF/qSlicerOpenIGTLinkIFModuleWidget.cxx
+END
+qSlicerOpenIGTLinkIFModule.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/NAMICSandBox/!svn/ver/8021/trunk/IGTLoadableModules/QtModules/OpenIGTLinkIF/qSlicerOpenIGTLinkIFModule.h
+END
+qSlicerOpenIGTLinkIFModuleWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/NAMICSandBox/!svn/ver/8021/trunk/IGTLoadableModules/QtModules/OpenIGTLinkIF/qSlicerOpenIGTLinkIFModuleWidget.h
+END
+qSlicerOpenIGTLinkIFModule.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/NAMICSandBox/!svn/ver/8021/trunk/IGTLoadableModules/QtModules/OpenIGTLinkIF/qSlicerOpenIGTLinkIFModule.cxx
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/NAMICSandBox/!svn/ver/8022/trunk/IGTLoadableModules/QtModules/OpenIGTLinkIF/CMakeLists.txt
+END

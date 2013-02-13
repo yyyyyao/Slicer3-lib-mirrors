@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/Slicer3/!svn/ver/15919/trunk/Modules/EMSegment/Testing/TestData/TutorialTest2
+END
+EMSegmentTestSet2_A2TReg_med.mrml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Slicer3/!svn/ver/15919/trunk/Modules/EMSegment/Testing/TestData/TutorialTest2/EMSegmentTestSet2_A2TReg_med.mrml
+END
+EMSegmentTestSet2_AllReg_med.mrml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Slicer3/!svn/ver/15919/trunk/Modules/EMSegment/Testing/TestData/TutorialTest2/EMSegmentTestSet2_AllReg_med.mrml
+END
+EMSegmentTestSet2_T2TReg_med.mrml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Slicer3/!svn/ver/15041/trunk/Modules/EMSegment/Testing/TestData/TutorialTest2/EMSegmentTestSet2_T2TReg_med.mrml
+END
+EMSegmentTestSet2_NoReg_med.mrml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Slicer3/!svn/ver/15041/trunk/Modules/EMSegment/Testing/TestData/TutorialTest2/EMSegmentTestSet2_NoReg_med.mrml
+END
+EMSegmentTestSet2_med.mrml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/Slicer3/!svn/ver/15919/trunk/Modules/EMSegment/Testing/TestData/TutorialTest2/EMSegmentTestSet2_med.mrml
+END

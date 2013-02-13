@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Slicer3/!svn/ver/17010/trunk/Modules/EMSegment/Testing/TestData/TutorialTest
+END
+Template_Slicer4_small_normalizationOn_noImages.mrml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/Slicer3/!svn/ver/16761/trunk/Modules/EMSegment/Testing/TestData/TutorialTest/Template_Slicer4_small_normalizationOn_noImages.mrml
+END
+Template_small.mrml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/Slicer3/!svn/ver/17010/trunk/Modules/EMSegment/Testing/TestData/TutorialTest/Template_small.mrml
+END
+Template_large.mrml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/Slicer3/!svn/ver/16359/trunk/Modules/EMSegment/Testing/TestData/TutorialTest/Template_large.mrml
+END
+Template_small_normalizationOn.mrml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Slicer3/!svn/ver/16359/trunk/Modules/EMSegment/Testing/TestData/TutorialTest/Template_small_normalizationOn.mrml
+END
+Template_small_normalizationOn_noImages.mrml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Slicer3/!svn/ver/16551/trunk/Modules/EMSegment/Testing/TestData/TutorialTest/Template_small_normalizationOn_noImages.mrml
+END

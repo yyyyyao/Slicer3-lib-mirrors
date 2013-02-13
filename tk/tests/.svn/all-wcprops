@@ -1,0 +1,647 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/Slicer3-lib-mirrors/!svn/ver/114/trunk/tcl/tk/tests
+END
+entry.test
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/entry.test
+END
+canvPsText.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/canvPsText.tcl
+END
+macWinMenu.test
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/macWinMenu.test
+END
+canvRect.test
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/canvRect.test
+END
+config.test
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/config.test
+END
+textBTree.test
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/textBTree.test
+END
+unixFont.test
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/unixFont.test
+END
+all.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/all.tcl
+END
+bind.test
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/bind.test
+END
+oldpack.test
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/oldpack.test
+END
+util.test
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/util.test
+END
+winDialog.test
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/winDialog.test
+END
+bell.test
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/bell.test
+END
+color.test
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/color.test
+END
+select.test
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/select.test
+END
+focusTcl.test
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/focusTcl.test
+END
+winMenu.test
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/winMenu.test
+END
+main.test
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/main.test
+END
+textImage.test
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/textImage.test
+END
+option.file1
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/option.file1
+END
+send.test
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/send.test
+END
+winButton.test
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/winButton.test
+END
+frame.test
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/frame.test
+END
+option.file2
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/option.file2
+END
+id.test
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/id.test
+END
+clipboard.test
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/clipboard.test
+END
+bevel.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/bevel.tcl
+END
+winWm.test
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/winWm.test
+END
+bugs.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/bugs.tcl
+END
+raise.test
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/raise.test
+END
+textWind.test
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/textWind.test
+END
+window.test
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/window.test
+END
+constraints.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/constraints.tcl
+END
+obj.test
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/obj.test
+END
+embed.test
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/embed.test
+END
+textIndex.test
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/textIndex.test
+END
+cursor.test
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/cursor.test
+END
+winClipboard.test
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/winClipboard.test
+END
+pack.test
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/pack.test
+END
+safe.test
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/safe.test
+END
+get.test
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/get.test
+END
+focus.test
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/focus.test
+END
+panedwindow.test
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/panedwindow.test
+END
+event.test
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/event.test
+END
+menuDraw.test
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/menuDraw.test
+END
+winfo.test
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/winfo.test
+END
+cmap.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/cmap.tcl
+END
+unixSelect.test
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/unixSelect.test
+END
+message.test
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/message.test
+END
+listbox.test
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/listbox.test
+END
+text.test
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/text.test
+END
+winFont.test
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/winFont.test
+END
+grid.test
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/grid.test
+END
+imgPPM.test
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/imgPPM.test
+END
+canvPsImg.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/canvPsImg.tcl
+END
+canvPsBmap.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/canvPsBmap.tcl
+END
+msgbox.test
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/msgbox.test
+END
+dialog.test
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/dialog.test
+END
+xmfbox.test
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/xmfbox.test
+END
+menu.test
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/menu.test
+END
+macscrollbar.test
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/macscrollbar.test
+END
+butGeom.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/butGeom.tcl
+END
+arc.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/arc.tcl
+END
+option.test
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/option.test
+END
+canvWind.test
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/canvWind.test
+END
+button.test
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/button.test
+END
+canvas.test
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/canvas.test
+END
+bitmap.test
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/bitmap.test
+END
+canvPsGrph.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/canvPsGrph.tcl
+END
+tk.test
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/tk.test
+END
+textTag.test
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/textTag.test
+END
+unixEmbed.test
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/unixEmbed.test
+END
+spinbox.test
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/spinbox.test
+END
+canvPsArc.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/canvPsArc.tcl
+END
+wm.test
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/wm.test
+END
+place.test
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/place.test
+END
+macMenu.test
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/macMenu.test
+END
+butGeom2.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/butGeom2.tcl
+END
+clrpick.test
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/clrpick.test
+END
+geometry.test
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/geometry.test
+END
+canvText.test
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/canvText.test
+END
+macEmbed.test
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/macEmbed.test
+END
+bgerror.test
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/bgerror.test
+END
+visual.test
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/visual.test
+END
+textDisp.test
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/textDisp.test
+END
+font.test
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/font.test
+END
+visual_bb.test
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/visual_bb.test
+END
+winSend.test
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/winSend.test
+END
+unixMenu.test
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/unixMenu.test
+END
+grab.test
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/grab.test
+END
+imgBmap.test
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/imgBmap.test
+END
+border.test
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/border.test
+END
+menubut.test
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/menubut.test
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/README
+END
+choosedir.test
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/choosedir.test
+END
+unixButton.test
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/unixButton.test
+END
+image.test
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/image.test
+END
+scrollbar.test
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/scrollbar.test
+END
+canvImg.test
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/canvImg.test
+END
+imgPhoto.test
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/imgPhoto.test
+END
+cmds.test
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/cmds.test
+END
+macFont.test
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/macFont.test
+END
+scale.test
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/scale.test
+END
+unixWm.test
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/unixWm.test
+END
+filebox.test
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/filebox.test
+END
+canvPs.test
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/canvPs.test
+END
+textMark.test
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/tests/textMark.test
+END

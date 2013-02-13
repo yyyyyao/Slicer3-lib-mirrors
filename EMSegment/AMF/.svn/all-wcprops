@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/Slicer3/!svn/ver/16998/trunk/Modules/EMSegment/AMF
+END
+vtkImageIsoContourDist.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/Slicer3/!svn/ver/16979/trunk/Modules/EMSegment/AMF/vtkImageIsoContourDist.cxx
+END
+vtkImagePropagateDist2.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/Slicer3/!svn/ver/16979/trunk/Modules/EMSegment/AMF/vtkImagePropagateDist2.cxx
+END
+vtkLevelSets.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Slicer3/!svn/ver/16905/trunk/Modules/EMSegment/AMF/vtkLevelSets.h
+END
+vtkLevelSetsPythonInit.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/Slicer3/!svn/ver/16538/trunk/Modules/EMSegment/AMF/vtkLevelSetsPythonInit.cxx
+END
+vtkLevelSetsTCLInit.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Slicer3/!svn/ver/16538/trunk/Modules/EMSegment/AMF/vtkLevelSetsTCLInit.cxx
+END
+vtkImageLogOdds.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Slicer3/!svn/ver/16905/trunk/Modules/EMSegment/AMF/vtkImageLogOdds.cxx
+END
+vtkImageLevelSets.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Slicer3/!svn/ver/16905/trunk/Modules/EMSegment/AMF/vtkImageLevelSets.h
+END
+vtkImageIsoContourDistTcl.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/Slicer3/!svn/ver/16538/trunk/Modules/EMSegment/AMF/vtkImageIsoContourDistTcl.cxx
+END
+vtkImagePropagateDist.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Slicer3/!svn/ver/16538/trunk/Modules/EMSegment/AMF/vtkImagePropagateDist.h
+END
+vtkLevelSetFastMarching.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Slicer3/!svn/ver/16538/trunk/Modules/EMSegment/AMF/vtkLevelSetFastMarching.h
+END
+cmd2Circles
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Slicer3/!svn/ver/16538/trunk/Modules/EMSegment/AMF/cmd2Circles
+END
+vtkImageFastSignedChamfer.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/Slicer3/!svn/ver/16538/trunk/Modules/EMSegment/AMF/vtkImageFastSignedChamfer.h
+END
+vtkLevelSets.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Slicer3/!svn/ver/16915/trunk/Modules/EMSegment/AMF/vtkLevelSets.cxx
+END
+vtkMinHeap.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Slicer3/!svn/ver/16538/trunk/Modules/EMSegment/AMF/vtkMinHeap.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Slicer3/!svn/ver/16538/trunk/Modules/EMSegment/AMF/README
+END
+LevelSetSegmenter
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Slicer3/!svn/ver/16538/trunk/Modules/EMSegment/AMF/LevelSetSegmenter
+END
+vtkImageMultiLevelSets.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/Slicer3/!svn/ver/16905/trunk/Modules/EMSegment/AMF/vtkImageMultiLevelSets.h
+END
+vtkImageLevelSets.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Slicer3/!svn/ver/16915/trunk/Modules/EMSegment/AMF/vtkImageLevelSets.cxx
+END
+vtkFastMarchingTcl.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Slicer3/!svn/ver/16538/trunk/Modules/EMSegment/AMF/vtkFastMarchingTcl.cxx
+END
+vtkImagePropagateDist.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Slicer3/!svn/ver/16979/trunk/Modules/EMSegment/AMF/vtkImagePropagateDist.cxx
+END
+vtkLevelSetsTcl.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Slicer3/!svn/ver/16538/trunk/Modules/EMSegment/AMF/vtkLevelSetsTcl.cxx
+END
+vtkLevelSetFastMarching.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/Slicer3/!svn/ver/16915/trunk/Modules/EMSegment/AMF/vtkLevelSetFastMarching.cxx
+END
+vtkImageIsoContourDist.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/Slicer3/!svn/ver/16538/trunk/Modules/EMSegment/AMF/vtkImageIsoContourDist.h
+END
+vtkImageFastSignedChamfer.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/Slicer3/!svn/ver/16915/trunk/Modules/EMSegment/AMF/vtkImageFastSignedChamfer.cxx
+END
+vtkImagePropagateDist2.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/Slicer3/!svn/ver/16538/trunk/Modules/EMSegment/AMF/vtkImagePropagateDist2.h
+END
+vtkImageLogOdds.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Slicer3/!svn/ver/16998/trunk/Modules/EMSegment/AMF/vtkImageLogOdds.h
+END
+vtkImageFastSignedChamferTcl.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/Slicer3/!svn/ver/16538/trunk/Modules/EMSegment/AMF/vtkImageFastSignedChamferTcl.cxx
+END
+vtkImageMultiLevelSets.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/Slicer3/!svn/ver/16538/trunk/Modules/EMSegment/AMF/vtkImageMultiLevelSets.cxx
+END

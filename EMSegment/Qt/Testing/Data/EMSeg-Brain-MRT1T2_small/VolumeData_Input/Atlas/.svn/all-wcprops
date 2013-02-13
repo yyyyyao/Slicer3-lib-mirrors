@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Slicer3/!svn/ver/16439/trunk/Modules/EMSegment/Qt/Testing/Data/EMSeg-Brain-MRT1T2_small/VolumeData_Input/Atlas
+END
+atlas_whitematter_small.raw.gz
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/Slicer3/!svn/ver/16439/trunk/Modules/EMSegment/Qt/Testing/Data/EMSeg-Brain-MRT1T2_small/VolumeData_Input/Atlas/atlas_whitematter_small.raw.gz
+END
+atlas_csf_small.nhdr
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/Slicer3/!svn/ver/16439/trunk/Modules/EMSegment/Qt/Testing/Data/EMSeg-Brain-MRT1T2_small/VolumeData_Input/Atlas/atlas_csf_small.nhdr
+END
+atlas_background_small.raw.gz
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/Slicer3/!svn/ver/16439/trunk/Modules/EMSegment/Qt/Testing/Data/EMSeg-Brain-MRT1T2_small/VolumeData_Input/Atlas/atlas_background_small.raw.gz
+END
+atlas_whitematter_small.nhdr
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/Slicer3/!svn/ver/16439/trunk/Modules/EMSegment/Qt/Testing/Data/EMSeg-Brain-MRT1T2_small/VolumeData_Input/Atlas/atlas_whitematter_small.nhdr
+END
+atlas_background_small.nhdr
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/Slicer3/!svn/ver/16439/trunk/Modules/EMSegment/Qt/Testing/Data/EMSeg-Brain-MRT1T2_small/VolumeData_Input/Atlas/atlas_background_small.nhdr
+END
+atlas_greymatter_small.raw.gz
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/Slicer3/!svn/ver/16439/trunk/Modules/EMSegment/Qt/Testing/Data/EMSeg-Brain-MRT1T2_small/VolumeData_Input/Atlas/atlas_greymatter_small.raw.gz
+END
+atlas_t1_small.raw.gz
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/Slicer3/!svn/ver/16439/trunk/Modules/EMSegment/Qt/Testing/Data/EMSeg-Brain-MRT1T2_small/VolumeData_Input/Atlas/atlas_t1_small.raw.gz
+END
+atlas_t2_small.raw.gz
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/Slicer3/!svn/ver/16439/trunk/Modules/EMSegment/Qt/Testing/Data/EMSeg-Brain-MRT1T2_small/VolumeData_Input/Atlas/atlas_t2_small.raw.gz
+END
+atlas_greymatter_small.nhdr
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/Slicer3/!svn/ver/16439/trunk/Modules/EMSegment/Qt/Testing/Data/EMSeg-Brain-MRT1T2_small/VolumeData_Input/Atlas/atlas_greymatter_small.nhdr
+END
+atlas_t1_small.nhdr
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/Slicer3/!svn/ver/16439/trunk/Modules/EMSegment/Qt/Testing/Data/EMSeg-Brain-MRT1T2_small/VolumeData_Input/Atlas/atlas_t1_small.nhdr
+END
+atlas_t2_small.nhdr
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/Slicer3/!svn/ver/16439/trunk/Modules/EMSegment/Qt/Testing/Data/EMSeg-Brain-MRT1T2_small/VolumeData_Input/Atlas/atlas_t2_small.nhdr
+END
+atlas_csf_small.raw.gz
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/Slicer3/!svn/ver/16439/trunk/Modules/EMSegment/Qt/Testing/Data/EMSeg-Brain-MRT1T2_small/VolumeData_Input/Atlas/atlas_csf_small.raw.gz
+END

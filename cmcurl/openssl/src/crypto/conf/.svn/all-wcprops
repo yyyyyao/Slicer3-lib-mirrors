@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/conf
+END
+conf_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/conf/conf_api.c
+END
+keysets.pl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/conf/keysets.pl
+END
+conf_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/conf/conf_api.h
+END
+conf_def.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/conf/conf_def.c
+END
+cnf_save.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/conf/cnf_save.c
+END
+conf_mod.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/conf/conf_mod.c
+END
+ssleay.cnf
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/conf/ssleay.cnf
+END
+conf_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/conf/conf_def.h
+END
+conf_sap.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/conf/conf_sap.c
+END
+conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/conf/conf.h
+END
+conf_mall.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/conf/conf_mall.c
+END
+conf_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/conf/conf_lib.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/conf/README
+END
+conf_err.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/conf/conf_err.c
+END

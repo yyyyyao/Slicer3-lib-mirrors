@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Slicer3/!svn/ver/16628/trunk/Modules/EMSegment/Tasks/MRI-Human-Brain
+END
+atlas_t1_stripped_mask.nrrd
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/Slicer3/!svn/ver/16198/trunk/Modules/EMSegment/Tasks/MRI-Human-Brain/atlas_t1_stripped_mask.nrrd
+END
+atlas_air.nrrd
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/Slicer3/!svn/ver/15465/trunk/Modules/EMSegment/Tasks/MRI-Human-Brain/atlas_air.nrrd
+END
+atlas_csf.nrrd
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/Slicer3/!svn/ver/15465/trunk/Modules/EMSegment/Tasks/MRI-Human-Brain/atlas_csf.nrrd
+END
+atlas_greymatter_hem.nrrd
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/Slicer3/!svn/ver/16628/trunk/Modules/EMSegment/Tasks/MRI-Human-Brain/atlas_greymatter_hem.nrrd
+END
+atlas_whitematter.nrrd
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/Slicer3/!svn/ver/16119/trunk/Modules/EMSegment/Tasks/MRI-Human-Brain/atlas_whitematter.nrrd
+END
+atlas_t1_stripped.nrrd
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/Slicer3/!svn/ver/16198/trunk/Modules/EMSegment/Tasks/MRI-Human-Brain/atlas_t1_stripped.nrrd
+END
+atlas_skulneck.nrrd
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/Slicer3/!svn/ver/16119/trunk/Modules/EMSegment/Tasks/MRI-Human-Brain/atlas_skulneck.nrrd
+END
+atlas_greymatter.nrrd
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/Slicer3/!svn/ver/16116/trunk/Modules/EMSegment/Tasks/MRI-Human-Brain/atlas_greymatter.nrrd
+END
+atlas_t1.nrrd
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/Slicer3/!svn/ver/15465/trunk/Modules/EMSegment/Tasks/MRI-Human-Brain/atlas_t1.nrrd
+END
+atlas_whitematter_hem.nrrd
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/Slicer3/!svn/ver/16628/trunk/Modules/EMSegment/Tasks/MRI-Human-Brain/atlas_whitematter_hem.nrrd
+END

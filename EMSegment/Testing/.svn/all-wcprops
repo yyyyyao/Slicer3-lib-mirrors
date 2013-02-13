@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/Slicer3/!svn/ver/17017/trunk/Modules/EMSegment/Testing
+END
+vtkEMSegmentCompareTest.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/Slicer3/!svn/ver/16449/trunk/Modules/EMSegment/Testing/vtkEMSegmentCompareTest.cxx
+END
+resample.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Slicer3/!svn/ver/15648/trunk/Modules/EMSegment/Testing/resample.sh
+END
+vtkSlicerCommonInterfaceTest1.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/Slicer3/!svn/ver/16753/trunk/Modules/EMSegment/Testing/vtkSlicerCommonInterfaceTest1.cxx
+END
+vtkSlicerEMSegmentModuleLogicExport.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/Slicer3/!svn/ver/16843/trunk/Modules/EMSegment/Testing/vtkSlicerEMSegmentModuleLogicExport.h
+END
+vtkGetReferencedSubSceneWithEMTemplateTest.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/Slicer3/!svn/ver/17016/trunk/Modules/EMSegment/Testing/vtkGetReferencedSubSceneWithEMTemplateTest.cxx
+END
+RunDiffRemoveTest.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/Slicer3/!svn/ver/15041/trunk/Modules/EMSegment/Testing/RunDiffRemoveTest.cmake
+END
+vtkEMSegmentTestUtilities.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/Slicer3/!svn/ver/15936/trunk/Modules/EMSegment/Testing/vtkEMSegmentTestUtilities.h
+END
+vtkEMSegmentMRMLManagerTest.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/Slicer3/!svn/ver/16922/trunk/Modules/EMSegment/Testing/vtkEMSegmentMRMLManagerTest.cxx
+END
+vtkEMSegmentBlackBoxSegmentationTest.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/Slicer3/!svn/ver/16922/trunk/Modules/EMSegment/Testing/vtkEMSegmentBlackBoxSegmentationTest.cxx
+END
+GUIManualTesting.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/Slicer3/!svn/ver/15041/trunk/Modules/EMSegment/Testing/GUIManualTesting.txt
+END
+test_atlas_creator.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/Slicer3/!svn/ver/16715/trunk/Modules/EMSegment/Testing/test_atlas_creator.tcl
+END
+vtkEMSegmentTestUtilities.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/Slicer3/!svn/ver/16203/trunk/Modules/EMSegment/Testing/vtkEMSegmentTestUtilities.cxx
+END
+vtkEMSegmentReadWriteMRMLTest.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/Slicer3/!svn/ver/17003/trunk/Modules/EMSegment/Testing/vtkEMSegmentReadWriteMRMLTest.cxx
+END
+vtkEMSegmentPreprocessingManagerTest.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/Slicer3/!svn/ver/16922/trunk/Modules/EMSegment/Testing/vtkEMSegmentPreprocessingManagerTest.cxx
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Slicer3/!svn/ver/17017/trunk/Modules/EMSegment/Testing/CMakeLists.txt
+END
+vtkEMSegmentRemoteIOTest.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/Slicer3/!svn/ver/16643/trunk/Modules/EMSegment/Testing/vtkEMSegmentRemoteIOTest.cxx
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Slicer3/!svn/ver/16439/trunk/Modules/EMSegment/Qt/Testing/Data/EMSeg-Brain-MRT1T2_small/VolumeData_Input/Target
+END
+t1_small.raw.gz
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/Slicer3/!svn/ver/16439/trunk/Modules/EMSegment/Qt/Testing/Data/EMSeg-Brain-MRT1T2_small/VolumeData_Input/Target/t1_small.raw.gz
+END
+t2_small.raw.gz
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/Slicer3/!svn/ver/16439/trunk/Modules/EMSegment/Qt/Testing/Data/EMSeg-Brain-MRT1T2_small/VolumeData_Input/Target/t2_small.raw.gz
+END
+t1_small.nhdr
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/Slicer3/!svn/ver/16439/trunk/Modules/EMSegment/Qt/Testing/Data/EMSeg-Brain-MRT1T2_small/VolumeData_Input/Target/t1_small.nhdr
+END
+t2_small.nhdr
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/Slicer3/!svn/ver/16439/trunk/Modules/EMSegment/Qt/Testing/Data/EMSeg-Brain-MRT1T2_small/VolumeData_Input/Target/t2_small.nhdr
+END

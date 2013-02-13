@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Slicer3/!svn/ver/17010/trunk/Modules/EMSegment/Testing/TestData
+END
+DefaultMRMLNodes_Slicer4.mrml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/Slicer3/!svn/ver/16983/trunk/Modules/EMSegment/Testing/TestData/DefaultMRMLNodes_Slicer4.mrml
+END
+MRI-Human-Brain2Ch.mrml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/Slicer3/!svn/ver/16981/trunk/Modules/EMSegment/Testing/TestData/MRI-Human-Brain2Ch.mrml
+END
+Human-Eye_LogMeanError.mrml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/Slicer3/!svn/ver/16518/trunk/Modules/EMSegment/Testing/TestData/Human-Eye_LogMeanError.mrml
+END
+DefaultMRMLNodes.mrml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/Slicer3/!svn/ver/16986/trunk/Modules/EMSegment/Testing/TestData/DefaultMRMLNodes.mrml
+END
+MRIHumanHeadTutorial.mrml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/Slicer3/!svn/ver/16328/trunk/Modules/EMSegment/Testing/TestData/MRIHumanHeadTutorial.mrml
+END

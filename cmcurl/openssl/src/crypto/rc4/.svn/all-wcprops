@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/rc4
+END
+rc4_skey.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/rc4/rc4_skey.c
+END
+rc4_locl.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/rc4/rc4_locl.h
+END
+rc4s.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/rc4/rc4s.cpp
+END
+rc4.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/rc4/rc4.h
+END
+rc4_enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/rc4/rc4_enc.c
+END
+rrc4.doc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/rc4/rrc4.doc
+END

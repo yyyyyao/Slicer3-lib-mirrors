@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/Slicer3/!svn/ver/15812/trunk/Modules/EMSegment/Testing/TestData/TutorialTest/VolumeData
+END
+atlasWhitematterReg_small.mhd
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Slicer3/!svn/ver/15041/trunk/Modules/EMSegment/Testing/TestData/TutorialTest/VolumeData/atlasWhitematterReg_small.mhd
+END
+targetT1Normed_small.mhd
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Slicer3/!svn/ver/15041/trunk/Modules/EMSegment/Testing/TestData/TutorialTest/VolumeData/targetT1Normed_small.mhd
+END
+atlasWhitematterReg_small.raw
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Slicer3/!svn/ver/15041/trunk/Modules/EMSegment/Testing/TestData/TutorialTest/VolumeData/atlasWhitematterReg_small.raw
+END
+targetT1Normed_small.raw
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Slicer3/!svn/ver/15041/trunk/Modules/EMSegment/Testing/TestData/TutorialTest/VolumeData/targetT1Normed_small.raw
+END
+targetT2Normed_small.mhd
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Slicer3/!svn/ver/15041/trunk/Modules/EMSegment/Testing/TestData/TutorialTest/VolumeData/targetT2Normed_small.mhd
+END
+atlasBackgroundReg_small.mhd
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Slicer3/!svn/ver/15041/trunk/Modules/EMSegment/Testing/TestData/TutorialTest/VolumeData/atlasBackgroundReg_small.mhd
+END
+targetT2Normed_small.raw
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Slicer3/!svn/ver/15041/trunk/Modules/EMSegment/Testing/TestData/TutorialTest/VolumeData/targetT2Normed_small.raw
+END
+atlasBackgroundReg_small.raw
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Slicer3/!svn/ver/15041/trunk/Modules/EMSegment/Testing/TestData/TutorialTest/VolumeData/atlasBackgroundReg_small.raw
+END
+atlasGreymatterReg_small.mhd
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Slicer3/!svn/ver/15041/trunk/Modules/EMSegment/Testing/TestData/TutorialTest/VolumeData/atlasGreymatterReg_small.mhd
+END
+atlasGreymatterReg_small.raw
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Slicer3/!svn/ver/15041/trunk/Modules/EMSegment/Testing/TestData/TutorialTest/VolumeData/atlasGreymatterReg_small.raw
+END
+segmentationResult_small.mhd
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Slicer3/!svn/ver/15812/trunk/Modules/EMSegment/Testing/TestData/TutorialTest/VolumeData/segmentationResult_small.mhd
+END
+segmentationResult_small.raw
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Slicer3/!svn/ver/15041/trunk/Modules/EMSegment/Testing/TestData/TutorialTest/VolumeData/segmentationResult_small.raw
+END
+atlasCSFReg_small.mhd
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/Slicer3/!svn/ver/15041/trunk/Modules/EMSegment/Testing/TestData/TutorialTest/VolumeData/atlasCSFReg_small.mhd
+END
+atlasCSFReg_small.raw
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/Slicer3/!svn/ver/15041/trunk/Modules/EMSegment/Testing/TestData/TutorialTest/VolumeData/atlasCSFReg_small.raw
+END

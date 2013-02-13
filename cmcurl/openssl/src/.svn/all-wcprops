@@ -1,0 +1,335 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src
+END
+s2_srvr.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/s2_srvr.c
+END
+t1_meth.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/t1_meth.c
+END
+s3_meth.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/s3_meth.c
+END
+s2_pkt.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/s2_pkt.c
+END
+s3_pkt.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/s3_pkt.c
+END
+t1_clnt.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/t1_clnt.c
+END
+s3_clnt.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/s3_clnt.c
+END
+ssl.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/ssl.h
+END
+ssl_algs.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/ssl_algs.c
+END
+s2_enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/s2_enc.c
+END
+ssl_err.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/ssl_err.c
+END
+s3_enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/s3_enc.c
+END
+t1_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/t1_lib.c
+END
+kssl.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/kssl.c
+END
+d1_both.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/d1_both.c
+END
+d1_srvr.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/d1_srvr.c
+END
+kssl.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/kssl.h
+END
+d1_pkt.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/d1_pkt.c
+END
+s23_meth.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/s23_meth.c
+END
+s23_pkt.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/s23_pkt.c
+END
+s23_clnt.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/s23_clnt.c
+END
+ssl_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/ssl_lib.c
+END
+d1_enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/d1_enc.c
+END
+bio_ssl.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/bio_ssl.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/CMakeLists.txt
+END
+dtls1.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/dtls1.h
+END
+ssl_stat.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/ssl_stat.c
+END
+ssl_sess.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/ssl_sess.c
+END
+ssl_txt.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/ssl_txt.c
+END
+t1_srvr.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/t1_srvr.c
+END
+s2_meth.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/s2_meth.c
+END
+s3_both.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/s3_both.c
+END
+s3_srvr.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/s3_srvr.c
+END
+opensslconf.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/opensslconf.h.in
+END
+s2_clnt.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/s2_clnt.c
+END
+ssl_ciph.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/ssl_ciph.c
+END
+ssl_rsa.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/ssl_rsa.c
+END
+t1_enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/t1_enc.c
+END
+s2_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/s2_lib.c
+END
+s3_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/s3_lib.c
+END
+kssl_lcl.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/kssl_lcl.h
+END
+ssl23.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/ssl23.h
+END
+ssl_cert.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/ssl_cert.c
+END
+ssl_locl.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/ssl_locl.h
+END
+d1_meth.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/d1_meth.c
+END
+s23_srvr.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/s23_srvr.c
+END
+ssl_asn1.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/ssl_asn1.c
+END
+d1_clnt.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/d1_clnt.c
+END
+ssl2.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/ssl2.h
+END
+tls1.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/tls1.h
+END
+ssl3.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/ssl3.h
+END
+d1_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/d1_lib.c
+END
+e_os.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/e_os.h
+END
+ssl_err2.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/ssl_err2.c
+END
+s23_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/s23_lib.c
+END

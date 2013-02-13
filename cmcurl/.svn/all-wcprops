@@ -1,0 +1,641 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/Slicer3-lib-mirrors/!svn/ver/185/trunk/cmcurl
+END
+inet_pton.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/inet_pton.c
+END
+escape.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/escape.c
+END
+telnet.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/telnet.h
+END
+easy.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/easy.c
+END
+inet_pton.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/inet_pton.h
+END
+escape.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/escape.h
+END
+security.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/security.c
+END
+if2ip.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/if2ip.c
+END
+netrc.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/netrc.c
+END
+security.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/security.h
+END
+if2ip.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/if2ip.h
+END
+http.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/http.c
+END
+amigaos.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/amigaos.c
+END
+netrc.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/netrc.h
+END
+strerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/strerror.c
+END
+hash.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/hash.c
+END
+dict.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/dict.c
+END
+http.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/http.h
+END
+amigaos.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/amigaos.h
+END
+md5.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/md5.c
+END
+llist.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/llist.c
+END
+strerror.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/strerror.h
+END
+hostares.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/hostares.c
+END
+hash.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/hash.h
+END
+dict.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/dict.h
+END
+ftp.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/ftp.c
+END
+http_chunks.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/http_chunks.c
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/md5.h
+END
+multi.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/multi.c
+END
+llist.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/llist.h
+END
+formdata.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/formdata.c
+END
+ftp.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/ftp.h
+END
+http_chunks.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/http_chunks.h
+END
+ca-bundle.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/ca-bundle.h
+END
+strequal.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/strequal.c
+END
+curl_memory.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/curl_memory.h
+END
+formdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/formdata.h
+END
+share.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/share.c
+END
+strequal.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/strequal.h
+END
+inet_ntoa_r.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/inet_ntoa_r.h
+END
+hostsyn.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/hostsyn.c
+END
+share.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/share.h
+END
+cookie.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/cookie.c
+END
+nwlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/nwlib.c
+END
+http_digest.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/http_digest.c
+END
+cookie.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/cookie.h
+END
+ssluse.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/ssluse.c
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/config.h.in
+END
+http_digest.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/http_digest.h
+END
+ssluse.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/ssluse.h
+END
+version.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/version.c
+END
+strtok.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/strtok.c
+END
+connect.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/connect.c
+END
+getinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/getinfo.c
+END
+strtok.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/strtok.h
+END
+connect.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/connect.h
+END
+speedcheck.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/speedcheck.c
+END
+inet_ntop.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/inet_ntop.c
+END
+sendf.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/sendf.c
+END
+getinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/getinfo.h
+END
+urldata.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/urldata.h
+END
+speedcheck.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/speedcheck.h
+END
+progress.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/progress.c
+END
+inet_ntop.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/inet_ntop.h
+END
+sendf.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/sendf.h
+END
+setup.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/setup.h
+END
+progress.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/progress.h
+END
+getdate.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/getdate.c
+END
+ldap.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/ldap.c
+END
+getdate.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/getdate.h
+END
+transfer.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/transfer.c
+END
+ldap.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/ldap.h
+END
+memdebug.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/memdebug.c
+END
+transfer.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/transfer.h
+END
+memdebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/memdebug.h
+END
+strtoofft.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/strtoofft.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Slicer3-lib-mirrors/!svn/ver/185/trunk/cmcurl/CMakeLists.txt
+END
+strtoofft.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/strtoofft.h
+END
+hostthre.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/hostthre.c
+END
+timeval.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/timeval.c
+END
+krb4.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/krb4.c
+END
+curlx.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/curlx.h
+END
+url.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/url.c
+END
+arpa_telnet.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/arpa_telnet.h
+END
+hostip.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/hostip.c
+END
+timeval.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/timeval.h
+END
+krb4.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/krb4.h
+END
+url.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/url.h
+END
+hostasyn.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/hostasyn.c
+END
+http_ntlm.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/http_ntlm.c
+END
+hostip.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/hostip.h
+END
+http_ntlm.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/http_ntlm.h
+END
+http_negotiate.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/http_negotiate.c
+END
+file.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/file.c
+END
+mprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/mprintf.c
+END
+content_encoding.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/content_encoding.c
+END
+http_negotiate.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/http_negotiate.h
+END
+base64.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/base64.c
+END
+file.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/file.h
+END
+content_encoding.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/content_encoding.h
+END
+getenv.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/getenv.c
+END
+base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/base64.h
+END
+hostip4.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/hostip4.c
+END
+curl.copyright
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/curl.copyright
+END
+telnet.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/telnet.c
+END
+hostip6.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/hostip6.c
+END

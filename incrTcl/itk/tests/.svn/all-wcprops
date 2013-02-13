@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/itk/tests
+END
+interp.test
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/itk/tests/interp.test
+END
+defs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/itk/tests/defs
+END
+widget.test
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/itk/tests/widget.test
+END
+option.test
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/itk/tests/option.test
+END
+all
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/itk/tests/all
+END
+toplevel.test
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/itk/tests/toplevel.test
+END
+all.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/itk/tests/all.tcl
+END
+privacy.test
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/itk/tests/privacy.test
+END
+public.test
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/itk/tests/public.test
+END

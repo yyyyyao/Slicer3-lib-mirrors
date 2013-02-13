@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Slicer3/!svn/ver/16848/trunk/Modules/EMSegment/Registration
+END
+vtkITKTransformAdapter.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/Slicer3/!svn/ver/16843/trunk/Modules/EMSegment/Registration/vtkITKTransformAdapter.h
+END
+vtkRigidRegistrator.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/Slicer3/!svn/ver/16843/trunk/Modules/EMSegment/Registration/vtkRigidRegistrator.h
+END
+vtkBSplineRegistrator.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/Slicer3/!svn/ver/16848/trunk/Modules/EMSegment/Registration/vtkBSplineRegistrator.cxx
+END
+vtkRegistratorTypeTraits.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/Slicer3/!svn/ver/15041/trunk/Modules/EMSegment/Registration/vtkRegistratorTypeTraits.h
+END
+vtkITKTransformAdapter.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/Slicer3/!svn/ver/15041/trunk/Modules/EMSegment/Registration/vtkITKTransformAdapter.cxx
+END
+vtkRigidRegistrator.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/Slicer3/!svn/ver/16848/trunk/Modules/EMSegment/Registration/vtkRigidRegistrator.cxx
+END
+vtkBSplineRegistrator.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/Slicer3/!svn/ver/16843/trunk/Modules/EMSegment/Registration/vtkBSplineRegistrator.h
+END

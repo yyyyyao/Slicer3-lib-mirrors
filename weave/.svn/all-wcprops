@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/Slicer3-lib-mirrors/!svn/ver/154/trunk/weave
+END
+converters.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/converters.py
+END
+slice_handler.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/slice_handler.py
+END
+c_spec.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/c_spec.py
+END
+blitz_spec.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz_spec.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/__init__.py
+END
+common_info.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/common_info.py
+END
+swig2_spec.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/swig2_spec.py
+END
+setupscons.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/setupscons.py
+END
+size_check.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/size_check.py
+END
+numpy_scalar_spec.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/numpy_scalar_spec.py
+END
+ast_tools.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/ast_tools.py
+END
+accelerate_tools.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/accelerate_tools.py
+END
+weave_version.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/weave_version.py
+END
+build_tools.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/build_tools.py
+END
+ext_tools.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/ext_tools.py
+END
+swigptr2.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/swigptr2.py
+END
+md5_load.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/md5_load.py
+END
+base_spec.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/base_spec.py
+END
+base_info.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/base_info.py
+END
+bytecodecompiler.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/bytecodecompiler.py
+END
+info.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/info.py
+END
+inline_tools.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/inline_tools.py
+END
+platform_info.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/platform_info.py
+END
+swigptr.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/swigptr.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/Slicer3-lib-mirrors/!svn/ver/154/trunk/weave/setup.py
+END
+blitz_tools.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/blitz_tools.py
+END
+standard_array_spec.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/standard_array_spec.py
+END
+cpp_namespace_spec.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/cpp_namespace_spec.py
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/LICENSE.txt
+END
+catalog.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/catalog.py
+END
+vtk_spec.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/vtk_spec.py
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/Slicer3-lib-mirrors/!svn/ver/151/trunk/weave/README.txt
+END

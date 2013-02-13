@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/macosx
+END
+Tclsh-Info.plist.in
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/macosx/Tclsh-Info.plist.in
+END
+tclMacOSXNotify.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/macosx/tclMacOSXNotify.c
+END
+tclMacOSXBundle.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/macosx/tclMacOSXBundle.c
+END
+Tcl-Info.plist.in
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/macosx/Tcl-Info.plist.in
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/macosx/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Slicer3-lib-mirrors/!svn/ver/81/trunk/tcl/tcl/macosx/README
+END

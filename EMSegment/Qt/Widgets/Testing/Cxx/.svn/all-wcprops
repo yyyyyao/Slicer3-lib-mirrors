@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Slicer3/!svn/ver/16475/trunk/Modules/EMSegment/Qt/Widgets/Testing/Cxx
+END
+qSlicerEMSegmentGraphWidgetTest1.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/Slicer3/!svn/ver/16475/trunk/Modules/EMSegment/Qt/Widgets/Testing/Cxx/qSlicerEMSegmentGraphWidgetTest1.cxx
+END
+vtkPlotGaussianTest1.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/Slicer3/!svn/ver/16439/trunk/Modules/EMSegment/Qt/Widgets/Testing/Cxx/vtkPlotGaussianTest1.cxx
+END
+qSlicerEMSegmentAnatomicalTreeWidgetTest1.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Slicer3/!svn/ver/16475/trunk/Modules/EMSegment/Qt/Widgets/Testing/Cxx/qSlicerEMSegmentAnatomicalTreeWidgetTest1.cxx
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/Slicer3/!svn/ver/16439/trunk/Modules/EMSegment/Qt/Widgets/Testing/Cxx/CMakeLists.txt
+END

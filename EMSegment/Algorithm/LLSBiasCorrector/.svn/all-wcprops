@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Slicer3/!svn/ver/16783/trunk/Modules/EMSegment/Algorithm/LLSBiasCorrector
+END
+DynArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/Slicer3/!svn/ver/16649/trunk/Modules/EMSegment/Algorithm/LLSBiasCorrector/DynArray.h
+END
+bias.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/Slicer3/!svn/ver/16649/trunk/Modules/EMSegment/Algorithm/LLSBiasCorrector/bias.cxx
+END
+test.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/Slicer3/!svn/ver/16681/trunk/Modules/EMSegment/Algorithm/LLSBiasCorrector/test.cxx
+END
+LLSBiasCorrector.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/Slicer3/!svn/ver/16684/trunk/Modules/EMSegment/Algorithm/LLSBiasCorrector/LLSBiasCorrector.h
+END
+DynArray.txx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/Slicer3/!svn/ver/16652/trunk/Modules/EMSegment/Algorithm/LLSBiasCorrector/DynArray.txx
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/Slicer3/!svn/ver/16682/trunk/Modules/EMSegment/Algorithm/LLSBiasCorrector/CMakeLists.txt
+END
+LLSBiasCorrector.txx
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/Slicer3/!svn/ver/16783/trunk/Modules/EMSegment/Algorithm/LLSBiasCorrector/LLSBiasCorrector.txx
+END

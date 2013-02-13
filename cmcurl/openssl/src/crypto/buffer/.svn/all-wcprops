@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/buffer
+END
+buffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/buffer/buffer.h
+END
+buf_err.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/buffer/buf_err.c
+END
+buffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/buffer/buffer.c
+END

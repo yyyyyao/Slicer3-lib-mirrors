@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/NAMICSandBox/!svn/ver/6519/trunk/OpenIGTLink/Examples/Point
+END
+PointServer.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/NAMICSandBox/!svn/ver/6519/trunk/OpenIGTLink/Examples/Point/PointServer.cxx
+END
+PointClient.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/NAMICSandBox/!svn/ver/6519/trunk/OpenIGTLink/Examples/Point/PointClient.cxx
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/NAMICSandBox/!svn/ver/6519/trunk/OpenIGTLink/Examples/Point/CMakeLists.txt
+END

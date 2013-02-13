@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/configure
+END
+README.vc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/README.vc.txt
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/Makefile.in
+END
+makefile.vc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/makefile.vc
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/configure.in
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/ChangeLog
+END
+pkg.vc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/pkg.vc
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/README
+END
+makefile.bc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/makefile.bc
+END
+rules.vc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/rules.vc
+END
+tcl.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/tcl.m4
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/TODO
+END
+INCOMPATIBLE
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/INCOMPATIBLE
+END
+CHANGES
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/CHANGES
+END
+license.terms
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/license.terms
+END
+config.vc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/config.vc
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Slicer3-lib-mirrors/!svn/ver/4/trunk/tcl/incrTcl/.cvsignore
+END

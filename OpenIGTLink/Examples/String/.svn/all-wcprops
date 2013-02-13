@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/NAMICSandBox/!svn/ver/7354/trunk/OpenIGTLink/Examples/String
+END
+StringClient.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/NAMICSandBox/!svn/ver/7354/trunk/OpenIGTLink/Examples/String/StringClient.cxx
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/NAMICSandBox/!svn/ver/7354/trunk/OpenIGTLink/Examples/String/CMakeLists.txt
+END
+StringServer.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/NAMICSandBox/!svn/ver/7354/trunk/OpenIGTLink/Examples/String/StringServer.cxx
+END

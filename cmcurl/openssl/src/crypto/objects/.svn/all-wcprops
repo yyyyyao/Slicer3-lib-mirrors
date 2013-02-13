@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/objects
+END
+objects.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/objects/objects.h
+END
+obj_mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/objects/obj_mac.h
+END
+obj_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/objects/obj_lib.c
+END
+o_names.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/objects/o_names.c
+END
+obj_dat.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/objects/obj_dat.c
+END
+obj_err.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/objects/obj_err.c
+END
+objects.pl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/objects/objects.pl
+END
+objects.README
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/objects/objects.README
+END
+objects.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/objects/objects.txt
+END
+obj_dat.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/objects/obj_dat.h
+END
+obj_mac.num
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/objects/obj_mac.num
+END
+obj_dat.pl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl/src/crypto/objects/obj_dat.pl
+END

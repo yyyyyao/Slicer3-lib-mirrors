@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/Platforms
+END
+config-aix.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/Platforms/config-aix.h
+END
+WindowsCache.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Slicer3-lib-mirrors/!svn/ver/126/trunk/cmcurl/Platforms/WindowsCache.cmake
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Slicer3/!svn/ver/16970/trunk/Modules/EMSegment/Tasks/Human-Eye
+END
+template.nrrd
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Slicer3/!svn/ver/16970/trunk/Modules/EMSegment/Tasks/Human-Eye/template.nrrd
+END
+atlas8.nrrd
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Slicer3/!svn/ver/16970/trunk/Modules/EMSegment/Tasks/Human-Eye/atlas8.nrrd
+END
+atlas9.nrrd
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Slicer3/!svn/ver/16970/trunk/Modules/EMSegment/Tasks/Human-Eye/atlas9.nrrd
+END
+normalizedIntensityMapOfAligned.nrrd
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/Slicer3/!svn/ver/16970/trunk/Modules/EMSegment/Tasks/Human-Eye/normalizedIntensityMapOfAligned.nrrd
+END
+atlas0.nrrd
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Slicer3/!svn/ver/16970/trunk/Modules/EMSegment/Tasks/Human-Eye/atlas0.nrrd
+END
+atlas1.nrrd
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Slicer3/!svn/ver/16970/trunk/Modules/EMSegment/Tasks/Human-Eye/atlas1.nrrd
+END
+atlas10.nrrd
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/Slicer3/!svn/ver/16970/trunk/Modules/EMSegment/Tasks/Human-Eye/atlas10.nrrd
+END
+atlas2.nrrd
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Slicer3/!svn/ver/16970/trunk/Modules/EMSegment/Tasks/Human-Eye/atlas2.nrrd
+END
+atlas4.nrrd
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Slicer3/!svn/ver/16970/trunk/Modules/EMSegment/Tasks/Human-Eye/atlas4.nrrd
+END
+atlas5.nrrd
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Slicer3/!svn/ver/16970/trunk/Modules/EMSegment/Tasks/Human-Eye/atlas5.nrrd
+END
+atlas6.nrrd
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Slicer3/!svn/ver/16970/trunk/Modules/EMSegment/Tasks/Human-Eye/atlas6.nrrd
+END

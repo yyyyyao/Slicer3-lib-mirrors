@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/Slicer3/!svn/ver/16690/trunk/Modules/EMSegment/Testing/TestData/MiscVolumeData/lesion
+END
+flair_time1.nrrd
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/Slicer3/!svn/ver/16690/trunk/Modules/EMSegment/Testing/TestData/MiscVolumeData/lesion/flair_time1.nrrd
+END
+t1_time1.nrrd
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/Slicer3/!svn/ver/16690/trunk/Modules/EMSegment/Testing/TestData/MiscVolumeData/lesion/t1_time1.nrrd
+END

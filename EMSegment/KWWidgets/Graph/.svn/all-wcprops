@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Slicer3/!svn/ver/16778/trunk/Modules/EMSegment/KWWidgets/Graph
+END
+vtkImageGraph.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/Slicer3/!svn/ver/16380/trunk/Modules/EMSegment/KWWidgets/Graph/vtkImageGraph.h
+END
+vtkImageDrawObjects.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/Slicer3/!svn/ver/16380/trunk/Modules/EMSegment/KWWidgets/Graph/vtkImageDrawObjects.cxx
+END
+vtkImageCurveRegion.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/Slicer3/!svn/ver/16705/trunk/Modules/EMSegment/KWWidgets/Graph/vtkImageCurveRegion.cxx
+END
+vtkImageDrawObjects.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/Slicer3/!svn/ver/16380/trunk/Modules/EMSegment/KWWidgets/Graph/vtkImageDrawObjects.h
+END
+vtkImageCurveRegion.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/Slicer3/!svn/ver/16705/trunk/Modules/EMSegment/KWWidgets/Graph/vtkImageCurveRegion.h
+END
+vtkIndirectLookupTable.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/Slicer3/!svn/ver/16776/trunk/Modules/EMSegment/KWWidgets/Graph/vtkIndirectLookupTable.cxx
+END
+vtkImageGraph.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/Slicer3/!svn/ver/16380/trunk/Modules/EMSegment/KWWidgets/Graph/vtkImageGraph.cxx
+END
+vtkIndirectLookupTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/Slicer3/!svn/ver/16778/trunk/Modules/EMSegment/KWWidgets/Graph/vtkIndirectLookupTable.h
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl-0.9.8g_win32/lib
+END
+libeay32.lib
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl-0.9.8g_win32/lib/libeay32.lib
+END
+ssleay32.lib
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/Slicer3-lib-mirrors/!svn/ver/128/trunk/cmcurl/openssl-0.9.8g_win32/lib/ssleay32.lib
+END

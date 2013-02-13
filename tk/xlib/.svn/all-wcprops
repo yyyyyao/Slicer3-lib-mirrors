@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/Slicer3-lib-mirrors/!svn/ver/114/trunk/tcl/tk/xlib
+END
+xgc.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/xlib/xgc.c
+END
+xbytes.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/xlib/xbytes.h
+END
+xdraw.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/xlib/xdraw.c
+END
+xutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/xlib/xutil.c
+END
+xcolors.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/xlib/xcolors.c
+END
+ximage.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Slicer3-lib-mirrors/!svn/ver/113/trunk/tcl/tk/xlib/ximage.c
+END

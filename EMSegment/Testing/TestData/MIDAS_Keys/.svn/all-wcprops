@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Slicer3/!svn/ver/16812/trunk/Modules/EMSegment/Testing/TestData/MIDAS_Keys
+END
+MRI-Human-Brain_T1-Atlas-Template-short_small.nrrd.md5
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/Slicer3/!svn/ver/16812/trunk/Modules/EMSegment/Testing/TestData/MIDAS_Keys/MRI-Human-Brain_T1-Atlas-Template-short_small.nrrd.md5
+END
+MRI-Human-Brain_T1-Atlas-Template-int_very_small.nrrd.md5
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/Slicer3/!svn/ver/16812/trunk/Modules/EMSegment/Testing/TestData/MIDAS_Keys/MRI-Human-Brain_T1-Atlas-Template-int_very_small.nrrd.md5
+END
+MRI-Human-Brain_T1-Atlas-Template-uchar_small.nrrd.md5
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/Slicer3/!svn/ver/16812/trunk/Modules/EMSegment/Testing/TestData/MIDAS_Keys/MRI-Human-Brain_T1-Atlas-Template-uchar_small.nrrd.md5
+END
+MRI-Human-Brain_T1-Atlas-Template-int.nrrd.md5
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Slicer3/!svn/ver/16034/trunk/Modules/EMSegment/Testing/TestData/MIDAS_Keys/MRI-Human-Brain_T1-Atlas-Template-int.nrrd.md5
+END
+RESULT_small_NonHumanPrimate_T1.nrrd.md5
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Slicer3/!svn/ver/15937/trunk/Modules/EMSegment/Testing/TestData/MIDAS_Keys/RESULT_small_NonHumanPrimate_T1.nrrd.md5
+END
+MRI-Human-Brain_T1-Atlas-Template-float_small.nrrd.md5
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/Slicer3/!svn/ver/16812/trunk/Modules/EMSegment/Testing/TestData/MIDAS_Keys/MRI-Human-Brain_T1-Atlas-Template-float_small.nrrd.md5
+END
+MRI-Human-Brain_T1-Atlas-Template-uchar_very_small.nrrd.md5
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/Slicer3/!svn/ver/16812/trunk/Modules/EMSegment/Testing/TestData/MIDAS_Keys/MRI-Human-Brain_T1-Atlas-Template-uchar_very_small.nrrd.md5
+END
+MRI-Human-Brain_T1-Atlas-Template-short.nrrd.md5
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/Slicer3/!svn/ver/16034/trunk/Modules/EMSegment/Testing/TestData/MIDAS_Keys/MRI-Human-Brain_T1-Atlas-Template-short.nrrd.md5
+END
+CT_Hand_Bone_Subject_2.nrrd.md5
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/Slicer3/!svn/ver/15940/trunk/Modules/EMSegment/Testing/TestData/MIDAS_Keys/CT_Hand_Bone_Subject_2.nrrd.md5
+END
+RESULT_very_small_NonHumanPrimate_T1.nrrd.md5
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/Slicer3/!svn/ver/15937/trunk/Modules/EMSegment/Testing/TestData/MIDAS_Keys/RESULT_very_small_NonHumanPrimate_T1.nrrd.md5
+END
+MRI-Human-Brain_T1-Atlas-Template-uchar.nrrd.md5
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/Slicer3/!svn/ver/16034/trunk/Modules/EMSegment/Testing/TestData/MIDAS_Keys/MRI-Human-Brain_T1-Atlas-Template-uchar.nrrd.md5
+END
+MRI-Human-Brain_T1-Atlas-Template-char_small.nrrd.md5
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/Slicer3/!svn/ver/16812/trunk/Modules/EMSegment/Testing/TestData/MIDAS_Keys/MRI-Human-Brain_T1-Atlas-Template-char_small.nrrd.md5
+END
+MRI-Human-Brain_T1-Atlas-Template-float.nrrd.md5
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/Slicer3/!svn/ver/16034/trunk/Modules/EMSegment/Testing/TestData/MIDAS_Keys/MRI-Human-Brain_T1-Atlas-Template-float.nrrd.md5
+END
+MRI-Human-Brain_T1-Atlas-Template-uint_small.nrrd.md5
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/Slicer3/!svn/ver/16812/trunk/Modules/EMSegment/Testing/TestData/MIDAS_Keys/MRI-Human-Brain_T1-Atlas-Template-uint_small.nrrd.md5
+END
+MRI-Human-Brain_T1-Atlas-Template-ushort_small.nrrd.md5
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/Slicer3/!svn/ver/16812/trunk/Modules/EMSegment/Testing/TestData/MIDAS_Keys/MRI-Human-Brain_T1-Atlas-Template-ushort_small.nrrd.md5
+END
+MRI-Human-Brain_T1-Atlas-Template-char.nrrd.md5
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/Slicer3/!svn/ver/16034/trunk/Modules/EMSegment/Testing/TestData/MIDAS_Keys/MRI-Human-Brain_T1-Atlas-Template-char.nrrd.md5
+END
+MRI-Human-Brain_T1-Atlas-Template-uint.nrrd.md5
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/Slicer3/!svn/ver/16034/trunk/Modules/EMSegment/Testing/TestData/MIDAS_Keys/MRI-Human-Brain_T1-Atlas-Template-uint.nrrd.md5
+END
+RESULT_small_MRIHumanBrainParcellation_T1.nrrd.md5
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/Slicer3/!svn/ver/15937/trunk/Modules/EMSegment/Testing/TestData/MIDAS_Keys/RESULT_small_MRIHumanBrainParcellation_T1.nrrd.md5
+END
+MRI-Human-Brain_T1-Atlas-Template-ushort_very_small.nrrd.md5
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/Slicer3/!svn/ver/16812/trunk/Modules/EMSegment/Testing/TestData/MIDAS_Keys/MRI-Human-Brain_T1-Atlas-Template-ushort_very_small.nrrd.md5
+END
+MRI-Human-Brain_T1-Atlas-Template-ushort.nrrd.md5
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/Slicer3/!svn/ver/16034/trunk/Modules/EMSegment/Testing/TestData/MIDAS_Keys/MRI-Human-Brain_T1-Atlas-Template-ushort.nrrd.md5
+END
+RESULT_very_small_MRIHumanBrainParcellation_T1.nrrd.md5
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/Slicer3/!svn/ver/15937/trunk/Modules/EMSegment/Testing/TestData/MIDAS_Keys/RESULT_very_small_MRIHumanBrainParcellation_T1.nrrd.md5
+END
+MRI-Human-Brain_T1-Atlas-Template-short_very_small.nrrd.md5
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/Slicer3/!svn/ver/16812/trunk/Modules/EMSegment/Testing/TestData/MIDAS_Keys/MRI-Human-Brain_T1-Atlas-Template-short_very_small.nrrd.md5
+END
+CT_Hand_Bone_Subject_1.nrrd.md5
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/Slicer3/!svn/ver/15940/trunk/Modules/EMSegment/Testing/TestData/MIDAS_Keys/CT_Hand_Bone_Subject_1.nrrd.md5
+END
+CT_Hand_Bone_Subject_3.nrrd.md5
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/Slicer3/!svn/ver/15940/trunk/Modules/EMSegment/Testing/TestData/MIDAS_Keys/CT_Hand_Bone_Subject_3.nrrd.md5
+END
+MRI-Human-Brain_T1-Atlas-Template-double_small.nrrd.md5
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/Slicer3/!svn/ver/16812/trunk/Modules/EMSegment/Testing/TestData/MIDAS_Keys/MRI-Human-Brain_T1-Atlas-Template-double_small.nrrd.md5
+END
+MRI-Human-Brain_T1-Atlas-Template-float_very_small.nrrd.md5
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/Slicer3/!svn/ver/16812/trunk/Modules/EMSegment/Testing/TestData/MIDAS_Keys/MRI-Human-Brain_T1-Atlas-Template-float_very_small.nrrd.md5
+END
+RESULT_small_MRIHumanBrainFullParcellation_T1.nrrd.md5
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/Slicer3/!svn/ver/15937/trunk/Modules/EMSegment/Testing/TestData/MIDAS_Keys/RESULT_small_MRIHumanBrainFullParcellation_T1.nrrd.md5
+END
+RESULT_small_MRIHumanBrain_T1_aligned.nrrd.md5
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Slicer3/!svn/ver/15937/trunk/Modules/EMSegment/Testing/TestData/MIDAS_Keys/RESULT_small_MRIHumanBrain_T1_aligned.nrrd.md5
+END
+MRI-Human-Brain_T1-Atlas-Template-double_very_small.nrrd.md5
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/Slicer3/!svn/ver/16812/trunk/Modules/EMSegment/Testing/TestData/MIDAS_Keys/MRI-Human-Brain_T1-Atlas-Template-double_very_small.nrrd.md5
+END
+RESULT_very_small_MRIHumanBrainFullParcellation_T1.nrrd.md5
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/Slicer3/!svn/ver/15937/trunk/Modules/EMSegment/Testing/TestData/MIDAS_Keys/RESULT_very_small_MRIHumanBrainFullParcellation_T1.nrrd.md5
+END
+MRI-Human-Brain_T1-Atlas-Template-char_very_small.nrrd.md5
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/Slicer3/!svn/ver/16812/trunk/Modules/EMSegment/Testing/TestData/MIDAS_Keys/MRI-Human-Brain_T1-Atlas-Template-char_very_small.nrrd.md5
+END
+MRI-Human-Brain_T1-Atlas-Template-double.nrrd.md5
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/Slicer3/!svn/ver/16034/trunk/Modules/EMSegment/Testing/TestData/MIDAS_Keys/MRI-Human-Brain_T1-Atlas-Template-double.nrrd.md5
+END
+RESULT_very_small_MRIHumanBrain_T1_aligned.nrrd.md5
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/Slicer3/!svn/ver/15937/trunk/Modules/EMSegment/Testing/TestData/MIDAS_Keys/RESULT_very_small_MRIHumanBrain_T1_aligned.nrrd.md5
+END
+MRI-Human-Brain_T1-Atlas-Template-uint_very_small.nrrd.md5
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/Slicer3/!svn/ver/16812/trunk/Modules/EMSegment/Testing/TestData/MIDAS_Keys/MRI-Human-Brain_T1-Atlas-Template-uint_very_small.nrrd.md5
+END
+x4_atlas_t1.nrrd.md5
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/Slicer3/!svn/ver/15937/trunk/Modules/EMSegment/Testing/TestData/MIDAS_Keys/x4_atlas_t1.nrrd.md5
+END
+MRI-Human-Brain_T1-Atlas-Template-int_small.nrrd.md5
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/Slicer3/!svn/ver/16812/trunk/Modules/EMSegment/Testing/TestData/MIDAS_Keys/MRI-Human-Brain_T1-Atlas-Template-int_small.nrrd.md5
+END

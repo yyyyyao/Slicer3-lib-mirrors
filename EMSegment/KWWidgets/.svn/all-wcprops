@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Slicer3/!svn/ver/16933/trunk/Modules/EMSegment/KWWidgets
+END
+vtkEMSegmentGUI.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Slicer3/!svn/ver/16543/trunk/Modules/EMSegment/KWWidgets/vtkEMSegmentGUI.cxx
+END
+vtkEMSegmentAnatomicalStructureStep.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/Slicer3/!svn/ver/16310/trunk/Modules/EMSegment/KWWidgets/vtkEMSegmentAnatomicalStructureStep.cxx
+END
+vtkEMSegmentKWDynamicFrame.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/Slicer3/!svn/ver/16575/trunk/Modules/EMSegment/KWWidgets/vtkEMSegmentKWDynamicFrame.h
+END
+vtkEMSegmentSpatialPriorsStep.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/Slicer3/!svn/ver/16310/trunk/Modules/EMSegment/KWWidgets/vtkEMSegmentSpatialPriorsStep.cxx
+END
+vtkEMSegmentIntensityDistributionsStep.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/Slicer3/!svn/ver/16310/trunk/Modules/EMSegment/KWWidgets/vtkEMSegmentIntensityDistributionsStep.h
+END
+vtkEMSegmentNodeParametersStep.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/Slicer3/!svn/ver/16502/trunk/Modules/EMSegment/KWWidgets/vtkEMSegmentNodeParametersStep.h
+END
+vtkEMSegmentRegistrationParametersStep.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/Slicer3/!svn/ver/16803/trunk/Modules/EMSegment/KWWidgets/vtkEMSegmentRegistrationParametersStep.cxx
+END
+vtkEMSegmentInputChannelsStep.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/Slicer3/!svn/ver/16310/trunk/Modules/EMSegment/KWWidgets/vtkEMSegmentInputChannelsStep.h
+END
+vtkEMSegmentIntensityImagesStep.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/Slicer3/!svn/ver/16310/trunk/Modules/EMSegment/KWWidgets/vtkEMSegmentIntensityImagesStep.h
+END
+vtkEMSegmentParametersSetStep.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/Slicer3/!svn/ver/16310/trunk/Modules/EMSegment/KWWidgets/vtkEMSegmentParametersSetStep.h
+END
+vtkEMSegmentStep.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/Slicer3/!svn/ver/16310/trunk/Modules/EMSegment/KWWidgets/vtkEMSegmentStep.h
+END
+vtkEMSegmentKWDynamicFrame.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/Slicer3/!svn/ver/16575/trunk/Modules/EMSegment/KWWidgets/vtkEMSegmentKWDynamicFrame.cxx
+END
+vtkEMSegmentRunSegmentationStep.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/Slicer3/!svn/ver/16502/trunk/Modules/EMSegment/KWWidgets/vtkEMSegmentRunSegmentationStep.h
+END
+vtkEMSegmentPreProcessingStep.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/Slicer3/!svn/ver/16310/trunk/Modules/EMSegment/KWWidgets/vtkEMSegmentPreProcessingStep.h
+END
+vtkEMSegmentNodeParametersStep.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/Slicer3/!svn/ver/16911/trunk/Modules/EMSegment/KWWidgets/vtkEMSegmentNodeParametersStep.cxx
+END
+vtkEMSegmentIntensityDistributionsStep.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/Slicer3/!svn/ver/16543/trunk/Modules/EMSegment/KWWidgets/vtkEMSegmentIntensityDistributionsStep.cxx
+END
+vtkEMSegmentInputChannelsStep.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/Slicer3/!svn/ver/16715/trunk/Modules/EMSegment/KWWidgets/vtkEMSegmentInputChannelsStep.cxx
+END
+EMSegment.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Slicer3/!svn/ver/16449/trunk/Modules/EMSegment/KWWidgets/EMSegment.txt
+END
+vtkEMSegmentIntensityImagesStep.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/Slicer3/!svn/ver/16310/trunk/Modules/EMSegment/KWWidgets/vtkEMSegmentIntensityImagesStep.cxx
+END
+vtkEMSegmentGUI.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Slicer3/!svn/ver/16543/trunk/Modules/EMSegment/KWWidgets/vtkEMSegmentGUI.h
+END
+vtkEMSegmentAnatomicalStructureStep.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/Slicer3/!svn/ver/16310/trunk/Modules/EMSegment/KWWidgets/vtkEMSegmentAnatomicalStructureStep.h
+END
+vtkEMSegmentParametersSetStep.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/Slicer3/!svn/ver/16933/trunk/Modules/EMSegment/KWWidgets/vtkEMSegmentParametersSetStep.cxx
+END
+vtkEMSegmentStep.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/Slicer3/!svn/ver/16543/trunk/Modules/EMSegment/KWWidgets/vtkEMSegmentStep.cxx
+END
+vtkEMSegmentSpatialPriorsStep.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/Slicer3/!svn/ver/16310/trunk/Modules/EMSegment/KWWidgets/vtkEMSegmentSpatialPriorsStep.h
+END
+vtkEMSegmentRunSegmentationStep.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/Slicer3/!svn/ver/16774/trunk/Modules/EMSegment/KWWidgets/vtkEMSegmentRunSegmentationStep.cxx
+END
+vtkEMSegmentPreProcessingStep.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/Slicer3/!svn/ver/16803/trunk/Modules/EMSegment/KWWidgets/vtkEMSegmentPreProcessingStep.cxx
+END
+vtkEMSegmentRegistrationParametersStep.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/Slicer3/!svn/ver/16310/trunk/Modules/EMSegment/KWWidgets/vtkEMSegmentRegistrationParametersStep.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Slicer3/!svn/ver/16621/trunk/Modules/EMSegment/KWWidgets/CMakeLists.txt
+END

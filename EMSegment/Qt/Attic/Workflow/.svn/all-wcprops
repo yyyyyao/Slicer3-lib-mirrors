@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Slicer3/!svn/ver/16713/trunk/Modules/EMSegment/Qt/Attic/Workflow
+END
+qSlicerEMSegmentDefinePreprocessingStep.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/Slicer3/!svn/ver/16713/trunk/Modules/EMSegment/Qt/Attic/Workflow/qSlicerEMSegmentDefinePreprocessingStep.cxx
+END
+qSlicerEMSegmentSpecifyIntensityDistributionStep.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Slicer3/!svn/ver/16713/trunk/Modules/EMSegment/Qt/Attic/Workflow/qSlicerEMSegmentSpecifyIntensityDistributionStep.h
+END
+qSlicerEMSegmentSegmentationLogicStep.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/Slicer3/!svn/ver/16713/trunk/Modules/EMSegment/Qt/Attic/Workflow/qSlicerEMSegmentSegmentationLogicStep.h
+END
+qSlicerEMSegmentDefineTaskStep.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/Slicer3/!svn/ver/16713/trunk/Modules/EMSegment/Qt/Attic/Workflow/qSlicerEMSegmentDefineTaskStep.h
+END
+qSlicerEMSegmentEditNodeBasedParametersStep.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Slicer3/!svn/ver/16713/trunk/Modules/EMSegment/Qt/Attic/Workflow/qSlicerEMSegmentEditNodeBasedParametersStep.h
+END
+qSlicerEMSegmentDefineAnatomicalTreeStep.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/Slicer3/!svn/ver/16713/trunk/Modules/EMSegment/Qt/Attic/Workflow/qSlicerEMSegmentDefineAnatomicalTreeStep.cxx
+END
+qSlicerEMSegmentWorkflowWidgetStep.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/Slicer3/!svn/ver/16713/trunk/Modules/EMSegment/Qt/Attic/Workflow/qSlicerEMSegmentWorkflowWidgetStep.h
+END
+qSlicerEMSegmentEditRegistrationParametersStep.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Slicer3/!svn/ver/16713/trunk/Modules/EMSegment/Qt/Attic/Workflow/qSlicerEMSegmentEditRegistrationParametersStep.cxx
+END
+qSlicerEMSegmentDefineAtlasStep.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/Slicer3/!svn/ver/16713/trunk/Modules/EMSegment/Qt/Attic/Workflow/qSlicerEMSegmentDefineAtlasStep.h
+END
+qSlicerEMSegmentRunSegmentationStep.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/Slicer3/!svn/ver/16713/trunk/Modules/EMSegment/Qt/Attic/Workflow/qSlicerEMSegmentRunSegmentationStep.h
+END
+qSlicerEMSegmentWorkflowWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/Slicer3/!svn/ver/16713/trunk/Modules/EMSegment/Qt/Attic/Workflow/qSlicerEMSegmentWorkflowWidget.h
+END
+qSlicerEMSegmentEditRegistrationParametersStep_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Slicer3/!svn/ver/16713/trunk/Modules/EMSegment/Qt/Attic/Workflow/qSlicerEMSegmentEditRegistrationParametersStep_p.h
+END
+qSlicerEMSegmentSpecifyIntensityDistributionStep.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Slicer3/!svn/ver/16713/trunk/Modules/EMSegment/Qt/Attic/Workflow/qSlicerEMSegmentSpecifyIntensityDistributionStep.cxx
+END
+qSlicerEMSegmentDefineInputChannelsStep.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/Slicer3/!svn/ver/16713/trunk/Modules/EMSegment/Qt/Attic/Workflow/qSlicerEMSegmentDefineInputChannelsStep.h
+END
+qSlicerEMSegmentSegmentationLogicStep.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/Slicer3/!svn/ver/16713/trunk/Modules/EMSegment/Qt/Attic/Workflow/qSlicerEMSegmentSegmentationLogicStep.cxx
+END
+qSlicerEMSegmentDefineTaskStep.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/Slicer3/!svn/ver/16713/trunk/Modules/EMSegment/Qt/Attic/Workflow/qSlicerEMSegmentDefineTaskStep.cxx
+END
+qSlicerEMSegmentSpecifyIntensityDistributionStep_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Slicer3/!svn/ver/16713/trunk/Modules/EMSegment/Qt/Attic/Workflow/qSlicerEMSegmentSpecifyIntensityDistributionStep_p.h
+END
+qSlicerEMSegmentEditNodeBasedParametersStep.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Slicer3/!svn/ver/16713/trunk/Modules/EMSegment/Qt/Attic/Workflow/qSlicerEMSegmentEditNodeBasedParametersStep.cxx
+END
+qSlicerEMSegmentWorkflowWidgetStep.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/Slicer3/!svn/ver/16713/trunk/Modules/EMSegment/Qt/Attic/Workflow/qSlicerEMSegmentWorkflowWidgetStep.cxx
+END
+qSlicerEMSegmentDefineAtlasStep.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/Slicer3/!svn/ver/16713/trunk/Modules/EMSegment/Qt/Attic/Workflow/qSlicerEMSegmentDefineAtlasStep.cxx
+END
+qSlicerEMSegmentDefineTaskStep_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/Slicer3/!svn/ver/16713/trunk/Modules/EMSegment/Qt/Attic/Workflow/qSlicerEMSegmentDefineTaskStep_p.h
+END
+qSlicerEMSegmentRunSegmentationStep.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/Slicer3/!svn/ver/16713/trunk/Modules/EMSegment/Qt/Attic/Workflow/qSlicerEMSegmentRunSegmentationStep.cxx
+END
+qSlicerEMSegmentWorkflowWidget.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/Slicer3/!svn/ver/16713/trunk/Modules/EMSegment/Qt/Attic/Workflow/qSlicerEMSegmentWorkflowWidget.cxx
+END
+qSlicerEMSegmentDefinePreprocessingStep.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/Slicer3/!svn/ver/16713/trunk/Modules/EMSegment/Qt/Attic/Workflow/qSlicerEMSegmentDefinePreprocessingStep.h
+END
+qSlicerEMSegmentDefineInputChannelsStep.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/Slicer3/!svn/ver/16713/trunk/Modules/EMSegment/Qt/Attic/Workflow/qSlicerEMSegmentDefineInputChannelsStep.cxx
+END
+qSlicerEMSegmentRunSegmentationStep_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/Slicer3/!svn/ver/16713/trunk/Modules/EMSegment/Qt/Attic/Workflow/qSlicerEMSegmentRunSegmentationStep_p.h
+END
+qSlicerEMSegmentDefineAnatomicalTreeStep.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/Slicer3/!svn/ver/16713/trunk/Modules/EMSegment/Qt/Attic/Workflow/qSlicerEMSegmentDefineAnatomicalTreeStep.h
+END
+qSlicerEMSegmentEditRegistrationParametersStep.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/Slicer3/!svn/ver/16713/trunk/Modules/EMSegment/Qt/Attic/Workflow/qSlicerEMSegmentEditRegistrationParametersStep.h
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Slicer3/!svn/ver/17011/trunk/Modules/EMSegment/CommandLineApplication
+END
+EMSegmentAPIHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/Slicer3/!svn/ver/16998/trunk/Modules/EMSegment/CommandLineApplication/EMSegmentAPIHelper.h
+END
+EMSegmentTransformToNewFormat.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/Slicer3/!svn/ver/16279/trunk/Modules/EMSegment/CommandLineApplication/EMSegmentTransformToNewFormat.xml
+END
+EMSegmentTransformToNewFormat.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/Slicer3/!svn/ver/16922/trunk/Modules/EMSegment/CommandLineApplication/EMSegmentTransformToNewFormat.cxx
+END
+vtkSlicerEMSegmentModuleLogicExport.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/Slicer3/!svn/ver/16843/trunk/Modules/EMSegment/CommandLineApplication/vtkSlicerEMSegmentModuleLogicExport.h
+END
+EMSegmentCommandLineFct.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/Slicer3/!svn/ver/16998/trunk/Modules/EMSegment/CommandLineApplication/EMSegmentCommandLineFct.cxx
+END
+EMSegmentCommandLine.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/Slicer3/!svn/ver/17011/trunk/Modules/EMSegment/CommandLineApplication/EMSegmentCommandLine.xml
+END
+EMSegmentTclInterpreter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/Slicer3/!svn/ver/15534/trunk/Modules/EMSegment/CommandLineApplication/EMSegmentTclInterpreter.xml
+END
+EMSegmentCommandLine.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/Slicer3/!svn/ver/17011/trunk/Modules/EMSegment/CommandLineApplication/EMSegmentCommandLine.cxx
+END
+EMSegmentTclInterpreter.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/Slicer3/!svn/ver/16721/trunk/Modules/EMSegment/CommandLineApplication/EMSegmentTclInterpreter.cxx
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/Slicer3/!svn/ver/16997/trunk/Modules/EMSegment/CommandLineApplication/CMakeLists.txt
+END
+EMSegmentCommandLineFct.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/Slicer3/!svn/ver/16889/trunk/Modules/EMSegment/CommandLineApplication/EMSegmentCommandLineFct.h
+END

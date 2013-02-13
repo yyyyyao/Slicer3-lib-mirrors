@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/Slicer3/!svn/ver/17014/trunk/Modules/EMSegment/Tasks
+END
+Non-Human-Primate.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Slicer3/!svn/ver/16715/trunk/Modules/EMSegment/Tasks/Non-Human-Primate.tcl
+END
+CT-Hand-Bone.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Slicer3/!svn/ver/16955/trunk/Modules/EMSegment/Tasks/CT-Hand-Bone.tcl
+END
+GenericTask.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Slicer3/!svn/ver/17011/trunk/Modules/EMSegment/Tasks/GenericTask.tcl
+END
+Registration_ANTS.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Slicer3/!svn/ver/16999/trunk/Modules/EMSegment/Tasks/Registration_ANTS.tcl
+END
+_Test-Atlas-Cluster.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Slicer3/!svn/ver/16967/trunk/Modules/EMSegment/Tasks/_Test-Atlas-Cluster.tcl
+END
+vtkCTHandBoneClass.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/Slicer3/!svn/ver/16882/trunk/Modules/EMSegment/Tasks/vtkCTHandBoneClass.cxx
+END
+MRI-Human-Brain-Parcellation.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/Slicer3/!svn/ver/16715/trunk/Modules/EMSegment/Tasks/MRI-Human-Brain-Parcellation.tcl
+END
+MRI-Human-Brain-Hemisphere.mrml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/Slicer3/!svn/ver/16633/trunk/Modules/EMSegment/Tasks/MRI-Human-Brain-Hemisphere.mrml
+END
+Registration_plastimatch.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/Slicer3/!svn/ver/16999/trunk/Modules/EMSegment/Tasks/Registration_plastimatch.tcl
+END
+_MRI-Human-Brain-Exp.mrml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/Slicer3/!svn/ver/16973/trunk/Modules/EMSegment/Tasks/_MRI-Human-Brain-Exp.mrml
+END
+_Lesion-Exp.mrml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Slicer3/!svn/ver/16973/trunk/Modules/EMSegment/Tasks/_Lesion-Exp.mrml
+END
+Registration_BRAINS.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Slicer3/!svn/ver/17007/trunk/Modules/EMSegment/Tasks/Registration_BRAINS.tcl
+END
+_MRI-Human-Brain-HIPR.mrml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/Slicer3/!svn/ver/16972/trunk/Modules/EMSegment/Tasks/_MRI-Human-Brain-HIPR.mrml
+END
+MRI-Human-Brain.mrml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Slicer3/!svn/ver/16527/trunk/Modules/EMSegment/Tasks/MRI-Human-Brain.mrml
+END
+Template.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Slicer3/!svn/ver/16715/trunk/Modules/EMSegment/Tasks/Template.tcl
+END
+_Human-Eye.mrml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Slicer3/!svn/ver/16970/trunk/Modules/EMSegment/Tasks/_Human-Eye.mrml
+END
+Registration_DRAMMS.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Slicer3/!svn/ver/16802/trunk/Modules/EMSegment/Tasks/Registration_DRAMMS.tcl
+END
+_MRI-Human-Brain-Exp.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/Slicer3/!svn/ver/16968/trunk/Modules/EMSegment/Tasks/_MRI-Human-Brain-Exp.tcl
+END
+Registration_DEMONS.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Slicer3/!svn/ver/16802/trunk/Modules/EMSegment/Tasks/Registration_DEMONS.tcl
+END
+_Lesion-Exp.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Slicer3/!svn/ver/16971/trunk/Modules/EMSegment/Tasks/_Lesion-Exp.tcl
+END
+_Test-Atlas-Cluster.mrml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/Slicer3/!svn/ver/16966/trunk/Modules/EMSegment/Tasks/_Test-Atlas-Cluster.mrml
+END
+Non-Human-Primate.mrml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/Slicer3/!svn/ver/16608/trunk/Modules/EMSegment/Tasks/Non-Human-Primate.mrml
+END
+CT-Hand-Bone.mrml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Slicer3/!svn/ver/16608/trunk/Modules/EMSegment/Tasks/CT-Hand-Bone.mrml
+END
+vtkCTHandBoneClass.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Slicer3/!svn/ver/16486/trunk/Modules/EMSegment/Tasks/vtkCTHandBoneClass.h
+END
+MRI-Human-Brain.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Slicer3/!svn/ver/16715/trunk/Modules/EMSegment/Tasks/MRI-Human-Brain.tcl
+END
+MRI-Human-Brain-Parcellation.mrml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/Slicer3/!svn/ver/17014/trunk/Modules/EMSegment/Tasks/MRI-Human-Brain-Parcellation.mrml
+END
+MRI-Human-Brain-Full-Parcellation.mrml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/Slicer3/!svn/ver/17014/trunk/Modules/EMSegment/Tasks/MRI-Human-Brain-Full-Parcellation.mrml
+END
+MRI-Human-Brain.mrml_remote
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/Slicer3/!svn/ver/16518/trunk/Modules/EMSegment/Tasks/MRI-Human-Brain.mrml_remote
+END
+Registration_CMTK.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Slicer3/!svn/ver/16999/trunk/Modules/EMSegment/Tasks/Registration_CMTK.tcl
+END
